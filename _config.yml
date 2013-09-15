@@ -1,0 +1,36 @@
+title:            "blog.gbacon.com"
+description:      "Omnicorn Pork Association"
+logo:             site-logo.png
+disqus_shortname: gregbacon
+search:           false
+url:              http://blog.gbacon.com
+#url:              http://localhost:4000
+
+owner:
+  name:           "Greg Bacon"
+  avatar:         "gbacon.jpg"
+  email:          "gbacon@gbacon.com"
+  twitter:        "gregbacon"
+  facebook:       "greg.bacon"
+  github:         "gbacon"
+  linkedin:       "gregbacon"
+  google_plus:    "https://plus.google.com/116768837253115950509"
+
+google_analytics: UA-9152841-2
+google_verify:    KTyZ1Uox2UzLCVQsLsiPUGFodtPFTDBmF1urt0OB61M
+bing_verify:      9EA28B6B33FA7C6ADAC2017041C73D0B
+
+links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Articles
+    url: /articles/
+  - title: Tags
+    url: /tags/
+
+permalink: /:categories/:title
+pygments: true
+
+timezone: America/Chicago
