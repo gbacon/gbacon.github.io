@@ -20,7 +20,7 @@ working program!
 The game is [American checkers] or English draughts, played on an
 eight–by–eight checkerboard, of all surfaces.
 
-{% highlight haskell %}
+{% highlight literate-haskell %}
 > {-# LANGUAGE ViewPatterns #-}
 > module Checkers where
 > import Data.Char (toLower,toUpper)
@@ -48,7 +48,7 @@ move _ = 0
 
 and eventually
 
-{% highlight haskell %}
+{% highlight literate-haskell %}
 > gameOver :: Board -> Bool
 > gameOver b = blueMoves b == 0 || whiteMoves b == 0
 {% endhighlight %}
@@ -92,7 +92,7 @@ negdiags = map reverse . filter used . transpose . map shear . zip [0..]
 
 Having `Board` values to play with is trivial:
 
-{% highlight haskell %}
+{% highlight literate-haskell %}
 > board :: String -> Board
 > board s = Board $ go s
 >   where go [] = []
@@ -166,10 +166,10 @@ considered using [Template Haskell][th]—a cousin of Lisp macros for
 Haskell. I decided to push lexical closures as far as I could, and the
 result is below.
 
-{% highlight haskell %}
+{% highlight literate-haskell %}
 > blueMoves, whiteMoves :: Board -> Int
 > [blueMoves, whiteMoves] =
->   let blueOrder = id  -- diagonals emerge in blue's perspective
+>   let blueOrder = id  -- diagonals emerge in blue’s perspective
 >       whiteOrder = map reverse
 >       count (direction,side) (diagonals -> ds) =
 >         sum $ map sideCanMove $ concatMap tails $ direction $ ds
@@ -196,7 +196,7 @@ make them usable on the white side.
 To get both sets of diagonals, the only difference is how to shear the
 board: bottom-away for positive slopes and top-away for negative.
 
-{% highlight haskell %}
+{% highlight literate-haskell %}
 > -- positive slopes slice from NW to SE
 > -- negative slopes slice from SW to NE
 > -- both extend in blue’s direction (north-to-south)
@@ -223,7 +223,7 @@ definition of `invert` in the `where` clause.
 I had hoped for a more elegant result, but it was an interesting
 exercise and a fun problem!
 
-{% highlight haskell %}
+{% highlight literate-haskell %}
 > tests :: Test
 > tests = test $ concat
 >   [ checkMoves "must have piece to move"
