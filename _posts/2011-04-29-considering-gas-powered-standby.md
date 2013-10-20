@@ -3,6 +3,7 @@ title: "Considering a gas-powered standby generator"
 layout: post
 permalink: /2011/04/considering-gas-powered-standby.html
 comments: true
+tags: [Miscellaneous]
 ---
 I’ve been wearing my [Bo Williams][bo] Risk Analysis™ cap a fair amount
 for the past couple of days, and this post started life as a comment on
