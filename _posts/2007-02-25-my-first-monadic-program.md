@@ -97,15 +97,33 @@ validProduct (mr, md, pr)
 {% endhighlight %}
 
 The test goes just as you would describe it to someone else: parse the
-input to extract the components of the mulitiplication and then check
-whether the multiplication holds. Simple.
+input to extract the multiplier, multiplicand, and product. Then check
+whether the operation holds. Simple.
+
+Fitting these puzzle pieces together also helped another concept click.
+I remember reading characterizations of being “inside the monad” and
+feeling mystified. Notice, for example, that `parseExpr` has type
+`String`&nbsp;→&nbsp;`Maybe (Int,Int,Int)`. That is, given a string,
+the result is either `Nothing` or `Just x`, where *x* is a 3-tuple.
+Another way to think about the latter case is `Just` with some
+`(Int,Int,Int)` *inside* it.
+
+Continuing the concept, consider how `parseExpr` is used in `check`.
+The result from `parseExpr` becomes on the next line an argument to
+`validProduct`. You might be tempted to object that the types don’t
+line up! `validProduct` wants a plain tuple, but `parseExpr` gives
+`Maybe (Int,Int,Int)`.
+
+For the program to typecheck, `result` must be a tuple with no wrapper.
+When “inside the monad,” you can directly access the value without
+having to explicitly unwrap it.
 
 You wonder, *‘But what about when the parse fails or when the statement
-is bogus?’* Those checks are still happening, but the `Maybe` monad and
-the do-notation syntactic sugar are performing those checks implicitly!
+is bogus?’* In addition to implicitly unwrapping, the `Maybe` monad and
+do-notation syntactic sugar are checking these cases too!
 “Control” (to borrow an imperative concept) reaches the `return p` line
-only if both the parse and `validProduct` succeed. Otherwise, `check`
-bails and returns `Nothing`.
+only if both `parseExpr` and `validProduct` succeed. Otherwise, `check`
+bails where the failure occurs and returns `Nothing`.
 
 All that’s left to do is feed it input and sum the result. Note: it’s
 very s-l-o-w.
