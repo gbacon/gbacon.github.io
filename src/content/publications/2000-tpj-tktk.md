@@ -7,7 +7,7 @@ description: "Time killer in Perl/Tk. (paid link)"
 external_url: https://www.amazon.com/Games-Diversions-Perl-Culture-Journal/dp/0596003129?&linkCode=ll2&tag=bloggbaconcom-20&linkId=a11f62ee1d09b274f5478ed0cc240644&language=en_US&ref_=as_li_ss_tl
 tags:
   - "Perl"
-  - "Perl/Tk"
+  - "Perl-Tk"
   - "Games"
   - "GUI"
 ---
