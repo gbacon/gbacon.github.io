@@ -6,7 +6,7 @@ journal: "IEEE SoutheastCon 2024"
 external_url: "https://doi.org/10.1109/SoutheastCon56624.2025.10971523"
 description: "Identification of technical fits based on opportunity descriptions and a team’s summary of capabilities. Unsupervised multiclass spectral clustering selected 3 out of 5 topics (in a corpus of 89) chosen by a team of human experts."
 tags:
-  - "AI/ML"
+  - "AI-ML"
   - "LLM"
   - "Embeddings"
   - "Natural Language Processing"
