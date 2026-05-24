@@ -33,4 +33,4 @@ My research interests include **LLMs**, **cybersecurity**, **computability**, **
 
 ---
 
-*"I am a mathematician. I am interested in the fundamental limits on the rate at which information can be transmitted."*
+*Carpe diem!*
