@@ -10,7 +10,7 @@ tags:
   - "LLM"
   - "Ethical AI"
   - "Explainable AI"
-  - "SBIR/STTR"
+  - "SBIR"
 ---
 
 ## Abstract

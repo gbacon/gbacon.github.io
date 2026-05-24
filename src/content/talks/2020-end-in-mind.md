@@ -4,7 +4,7 @@ author: "Greg Bacon"
 date: "2020-02-24"
 description: "A common proposal mistake and how to fix it."
 tags:
-  - "SBIR/STTR"
+  - "SBIR"
 ---
 
 In the [Catalyst Center’s][catalyst] SBIR & STTR Summit 2020, I applied one of the [Seven Habits of Highly Effective People][habits] (paid link) to developing a [SBIR or STTR][sbir] Phase&nbsp;I proposal, namely beginning with the end in mind to walk evaluators through a clear path of the Phase&nbsp;I feasibility study, the Phase&nbsp;II prototype, and Phase&nbsp;III commercialization.

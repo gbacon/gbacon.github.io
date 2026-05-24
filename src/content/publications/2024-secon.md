@@ -10,7 +10,7 @@ tags:
   - "LLM"
   - "Embeddings"
   - "Natural Language Processing"
-  - "SBIR/STTR"
+  - "SBIR"
 ---
 
 ## Abstract
