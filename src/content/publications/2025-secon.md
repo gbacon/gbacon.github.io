@@ -6,7 +6,7 @@ journal: "IEEE SoutheastCon 2025"
 external_url: "https://doi.org/10.1109/SoutheastCon56624.2025.10971523"
 description: "Use of LLM as a business-development or research assistant, applied to the use case of SBIR/STTR and quantified against Latent Semantic Indexing (LSI)."
 tags:
-  - "AI/ML"
+  - "AI-ML"
   - "LLM"
   - "Ethical AI"
   - "Explainable AI"

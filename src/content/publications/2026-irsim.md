@@ -6,7 +6,7 @@ journal: "IEEE SoutheastCon 2026"
 external_url: "https://doi.org/10.1109/SoutheastCon63549.2026.11476640"
 description: "Generation of IR images from EO inputs based on training against paired and unpaired samples from the Recognition of Combatant - Vehicles (ROCV) dataset."
 tags:
-  - "AI/ML"
+  - "AI-ML"
   - "Infrared"
   - "Style Transfer"
 ---
