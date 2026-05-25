@@ -1,0 +1,26 @@
+---
+interface Props {
+  href: string;
+  class?: string;
+  [key: string]: any;
+}
+
+const { href, class: className = "", ...rest } = Astro.props;
+
+const isAmazon = href.includes('amazon.com') || href.includes('amzn.to');
+const baseRel = "noopener noreferrer";
+const sponsoredRel = isAmazon ? `${baseRel} sponsored` : baseRel;
+
+const paidText = isAmazon ? ' (paid link)' : '';
+---
+
+<a
+  href={href}
+  rel={sponsoredRel}
+  class={className}
+  target="_blank"
+  {...rest}
+>
+  <slot />
+  {paidText}
+</a>

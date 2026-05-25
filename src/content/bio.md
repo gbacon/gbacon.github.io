@@ -1,28 +1,36 @@
 ---
-name: "Claude Shannon"
-avatar: "shannon.jpg"
-shortBio: "Mathematician and electrical engineer known as the 'Father of Information Theory'. Pioneer in digital computing and cryptography."
-institution: "MIT, Cambridge MA"
+name: "Greg Bacon"
+avatar: "greg.jpg"
+shortBio: "Computer Scientist. AI/ML. Software Engineer. Aviator. Flight Instructor."
+institution: "Madison, Alabama"
 ---
 
-I am a mathematician and electrical engineer best known for founding **Information Theory**. My work in the late 1940s established the theoretical foundations of modern digital communications and computing.
+I am a Ph.D. computer scientist working in the fields of AI/ML and software engineering. My career has spanned multiple sectors that are critical to north Alabama’s economy: telecommunications, university research and instruction, NASA, and the Department of Defense. My open-source contributions include Perl and git.
 
-## My Life
+## Personal
 
-Born in Petoskey, Michigan on April 30, 1916, I showed an early aptitude for engineering and mathematics. After studying at the University of Michigan, I completed my PhD at MIT where I famously applied Boolean algebra to electrical circuits. My master's thesis on relay switching circuits is considered one of the most important master's theses ever written.
+My wife Samantha and I reside in north Alabama and have three children. I am a graduate of the [Alabama School of Mathematics and Science][asms] and was honored to accept an appointment from Gov.&nbsp;Kay Ivey in 2025 to the [ASMS Board of Directors][asmsboard].
 
-During World War, I worked at Bell Labs on fire control systems and cryptography, which led to my seminal work in information theory.
+[asms]: https://www.asms.net/
+[asmsboard]: https://www.asms.net/about/boards
+
+I completed the B.S., M.S., and Ph.D. degrees at The [University of Alabama in Huntsville][uah], all in Computer Science. The title of my dissertation is “Toward Measurable Explainable Ethical AI: An LLM-Driven Data Analytics Study.”
+
+[uah]: https://www.uah.edu/
 
 ## Current Work
 
-I continue to work on various problems at the intersection of mathematics, engineering, and computer science. My interests include artificial intelligence, pattern recognition, game theory, and the fundamental limits of computation.
+I serve as Chief Technology Officer at OASYS,&nbsp;INC., a small business headquartered in Huntsville, Alabama with other locations around the United States. I teach as an adjunct instructor for the [UAH Computer Science Department][uahcs].
 
-I also enjoy juggling, unicycling, and playing the clarinet - I even built a juggling machine!
+An instrument-rated commercial pilot (Airplane Single-Engine Land) and flight instructor, I am a CFI with the [Redstone Arsenal Flying Activity][rafa].
+
+[rafa]: http://www.flyingactivity.com/
+[uahcs]: https://www.cs.uah.edu/
 
 ## Research Interests
 
-My research focus includes: **Information Theory**, **Cryptography**, **Digital Computing**, **Artificial Intelligence**, **Game Theory**, and **Switching Circuits**.
+My research interests include **LLMs**, **cybersecurity**, **computability**, **complexity**, **composability**, **requirements formalization**, and **digital engineering**.
 
 ---
 
-*"I am a mathematician. I am interested in the fundamental limits on the rate at which information can be transmitted."*
+*Carpe diem!*
