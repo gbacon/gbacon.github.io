@@ -82,19 +82,20 @@ education:
   * Classroom & Virtual Instruction, Training Development
 
 ## Service & Accomplishments
-* 2025–, Board of Directors, Alabama School of Mathematics & Science
+* 2025 – …, Board of Directors, Alabama School of Mathematics & Science
+* 2025 – …, [AI Huntsville](https://aihuntsville.org/), Law & Ethics Committee
 * 2025, IEEE SouthestCon 2025, Technical Program Committee
 * 2016, Board of Directors, Huntsville Association of Small Businesses in Technology (HASBAT)
 * 2013, Cofounder, Omicron Research Corporation
 * 2011–2013, Principal Investigator, “Improved Techniques for Optimistic Modeling,” Missile Defense Agency SBIR MDA11–031, Phases I and II
-* 2008, Acknowledged contributions. [*Real World Haskell* by Bryan O’Sullivan *et al.*](https://www.amazon.com/Real-World-Haskell-Bryan-OSullivan/dp/0596514980?&linkCode=ll2&tag=bloggbaconcom-20&linkId=e04dc3632848b66b671950f9a7d33b56&language=en_US&ref_=as_li_ss_tl) (paid link)
-* 2005, Acknowledged contributions. [*Higher-Order Perl* by Mark Dominus](https://www.amazon.com/Higher-Order-Perl-Transforming-Programs/dp/1558607013?&linkCode=ll2&tag=bloggbaconcom-20&linkId=b4ed76774f88819423e97c83edab6277&language=en_US&ref_=as_li_ss_tl) (paid link)
-* 2003, Acknowledged contributions. [*The Perl Cookbook* by Tom Christiansen & Nat Torkington](https://www.amazon.com/Perl-Cookbook-Second-Tom-Christiansen/dp/0596003137?&linkCode=ll2&tag=bloggbaconcom-20&linkId=c087096c47604fdb4948b606d2c79957&language=en_US&ref_=as_li_ss_tl) (paid link)
+* 2008, Acknowledged contributions. [*Real World Haskell* by Bryan O’Sullivan *et al.*](https://www.amazon.com/Real-World-Haskell-Bryan-OSullivan/dp/0596514980?&linkCode=ll2&tag=bloggbaconcom-20&linkId=e04dc3632848b66b671950f9a7d33b56&language=en_US&ref_=as_li_ss_tl)
+* 2005, Acknowledged contributions. [*Higher-Order Perl* by Mark Dominus](https://www.amazon.com/Higher-Order-Perl-Transforming-Programs/dp/1558607013?&linkCode=ll2&tag=bloggbaconcom-20&linkId=b4ed76774f88819423e97c83edab6277&language=en_US&ref_=as_li_ss_tl)
+* 2003, Acknowledged contributions. [*The Perl Cookbook* by Tom Christiansen & Nat Torkington](https://www.amazon.com/Perl-Cookbook-Second-Tom-Christiansen/dp/0596003137?&linkCode=ll2&tag=bloggbaconcom-20&linkId=c087096c47604fdb4948b606d2c79957&language=en_US&ref_=as_li_ss_tl)
 * 1998, Charter moderator, `comp.lang.perl.moderated` Usenet newsgroup
 
 ## Certifications & Memberships
 
-* 2024–, Institute of Electrical and Electronics Engineers (IEEE)
+* 2024 – …, Institute of Electrical and Electronics Engineers (IEEE)
 * 2021, Certificated Flight Instructor (CFI) – Airplane, Federal Aviation Administration (FAA)
 * 2021, National Association of Flight Instructors (NAFI).
 * 2020, Advanced Ground Instructor (AGI), FAA

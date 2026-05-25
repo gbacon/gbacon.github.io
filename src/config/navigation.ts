@@ -9,4 +9,5 @@ export const NAV_LINKS: NavLink[] = [
     { href: "/posts", label: "Blog", isActive: true },
     { href: "/tags", label: "Tags", isActive: true },
     { href: "/cv", label: "CV", isActive: true },
+    { href: "/disclaimers", label: "Disclaimers", isActive: true },
 ];

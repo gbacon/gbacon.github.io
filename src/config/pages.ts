@@ -41,4 +41,9 @@ export const PAGES: PagesConfig = {
         subtitle: "Academic and professional history.",
         isActive: true,
     },
+    disclaimers: {
+        title: "Disclaimers & Disclosures",
+        subtitle: "Legal notices and affiliate disclosures",
+        isActive: true,
+    },
 };

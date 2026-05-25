@@ -1,3 +1,9 @@
+# dev paths
+*.swp
+_site
+/bak
+/tmp
+
 scripts/gen-favicon/favicons/
 
 # build output
