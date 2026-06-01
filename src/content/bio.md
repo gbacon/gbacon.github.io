@@ -4,7 +4,6 @@ avatar: "greg.jpg"
 shortBio: "Computer Scientist. AI/ML. Software Engineer. Aviator. Flight Instructor."
 institution: "Madison, Alabama"
 ---
-
 I am a Ph.D. computer scientist working in the fields of AI/ML and software engineering. My career has spanned multiple sectors that are critical to north Alabama’s economy: telecommunications, university research and instruction, NASA, and the Department of Defense. My open-source contributions include Perl and git.
 
 ## Personal
@@ -30,7 +29,3 @@ An instrument-rated commercial pilot (Airplane Single-Engine Land) and flight in
 ## Research Interests
 
 My research interests include **LLMs**, **cybersecurity**, **computability**, **complexity**, **composability**, **requirements formalization**, and **digital engineering**.
-
----
-
-*Carpe diem!*

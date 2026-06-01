@@ -1,5 +1,6 @@
 ---
 import { getEntry, render } from "astro:content";
+import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { PAGES } from "../config";
 
@@ -8,10 +9,33 @@ const bioEntry = await getEntry("bio", "bio");
 const { Content: BioContent } = bioEntry
 	? await render(bioEntry)
 	: { Content: null };
+
+// Load latest posts
+const allPosts = await getCollection("posts");
+const latestPosts = allPosts
+  .sort((a, b) => {
+    const dateA = new Date(a.data.date || a.data.date || 0);
+    const dateB = new Date(b.data.date || b.data.date || 0);
+    return dateB.getTime() - dateA.getTime();
+  })
+  .slice(0, 5);
 ---
 
 <BaseLayout title={PAGES.home.title}>
 	<div class="container-narrow">
+		<div>
+			<h1>Latest Posts</h1>
+			<ul>
+				{latestPosts.map((post) => (
+					<li>
+						<a href={`/posts/${post.id}/`}>
+							{post.data.title}
+						</a>
+					</li>
+				))}
+			</ul>
+		</div>
+
 		{
 			(PAGES.home.title || PAGES.home.subtitle) && (
 				<header class="page-header">
