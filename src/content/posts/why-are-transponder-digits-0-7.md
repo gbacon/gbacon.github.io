@@ -1,7 +1,7 @@
 ---
 title: "Why are transponder digits only 0 to 7?"
 description: "Octal and human factors."
-date: "2017-04-29"
+date: "2026-05-01"
 author: "Greg Bacon"
 tags:
   - "Aviation"

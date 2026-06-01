@@ -2,7 +2,7 @@
 title: "PIREP: FAA written at PSI Examination Services"
 description: "I passed the Fundamentals of Instruction or FOI FAA knowledge test at the new PSI test center. Here’s what you can expect with the changes."
 author: "Greg Bacon"
-date: "2020-01-16"
+date: "2026-05-04"
 tags:
   - "Aviation"
 ---

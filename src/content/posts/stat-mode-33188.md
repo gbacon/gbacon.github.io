@@ -2,7 +2,7 @@
 title: "Why does stat give 33188 for a file mode?"
 description: "How Unix represents file permissions."
 author: "Greg Bacon"
-date: "2014-01-07"
+date: "2026-05-15"
 tags:
   - "Unix"
   - "Linux"

@@ -2,7 +2,7 @@
 title: "Commercial Checkride in 3 Acts"
 description: "Adventures in passing the FAA Commercial Airplane Single Engine Land practical test."
 author: "Greg Bacon"
-date: "2019-07-28"
+date: "2026-05-18"
 tags:
   - "Aviation"
 ---

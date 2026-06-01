@@ -2,7 +2,7 @@
 title: "Did JFK Jr.’s airplane have a working autopilot?"
 description: "Another sad aspect to this tragic crash."
 author: "Greg Bacon"
-date: "2020-06-17"
+date: "2026-05-28"
 tags:
   - "Aviation"
 ---

@@ -2,7 +2,7 @@
 title: "Just for you, Madeline"
 description: "Practice for our newest little reader."
 author: "Greg Bacon"
-date: "2009-07-11"
+date: "2026-05-07"
 tags:
   - "ActionScript"
 ---
@@ -41,8 +41,8 @@ tags:
   }
 </script>
 
-My five-year-old daughter is learning to read. I made flash cards for us to practice phonics and recognition, and I wrote this simple app to give her a way to practice on her own too. Thanks to the [Wiktionary](http://en.wiktionary.org/) folks for the pronunciations.
+When our five-year-old daughter was learning to read, I made flash cards for us to practice phonics and recognition. This simple app gave her a way to practice on her own too. Thanks to the [Wiktionary](http://en.wiktionary.org/) folks for the pronunciations. The [code is available on GitHub](http://github.com/gbacon/learn-words).
 
-Along with the buttons, you can advance by pressing Enter or Right-Arrow and hear the word with S or space bar.
+Along with the buttons, you can advance to the next word by pressing Enter or Right-Arrow and hear the word with S or space bar.
 
-The [code is available on GitHub](http://github.com/gbacon/learn-words).
+Thanks to the [Ruffle Flash emulator](https://ruffle.rs/), this bit of nostalgia was able to come back to life.

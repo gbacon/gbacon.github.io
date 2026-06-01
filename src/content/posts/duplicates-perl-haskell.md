@@ -2,12 +2,11 @@
 title: "Finding duplicates with Perl and Haskell"
 description: "Functional logfile processing."
 author: "Greg Bacon"
-date: "2009-08-31"
+date: "2026-05-25"
 tags:
   - "Perl"
   - "Haskell"
 ---
-
 A coworker wanted to check a family of log files to be sure that a given
 task never appeared on multiple nodes at the same time. Log entries are
 on single, whitespace-separated lines, and the last field records a
