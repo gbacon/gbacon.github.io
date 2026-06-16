@@ -10,6 +10,7 @@ import { affiliateLinkPlugin } from './src/plugins/remark-affiliate-links.mjs';
 
 // https://astro.build/config
 export default defineConfig({
+  trailingSlash: 'never',
   markdown: {
     remarkPlugins: [remarkMath],
     rehypePlugins: [
@@ -25,12 +26,23 @@ export default defineConfig({
   },
   site: 'https://blog.gbacon.com',
   // base: '/',
-  integrations: [sitemap()],
+  integrations: [
+    sitemap({
+      changefreq: 'weekly',
+      priority: 0.7,
+      lastmod: new Date(),
+      filter: (page) => {
+        return !page.includes('/404') &&
+               !page.match(/\/posts\/\d+\/?$/) &&
+               !page.includes('/dev-tools/');
+      },
+    })
+  ],
   output: 'static',
   redirects: {
     "/about": "/",
     "/articles": "/posts",
-    "/sitemap.xml": "/sitemap-0.xml",
+    "/sitemap.xml": "/sitemap-index.xml",
     "/2005/07/processing-lines-in-textbox.html": "/posts/processing-lines-in-textbox",
     "/2005/09/trigonometry-refactored.html": "/posts/trigonometry-refactored",
     "/2007/02/my-first-monadic-program.html": "/posts/my-first-monadic-program",
