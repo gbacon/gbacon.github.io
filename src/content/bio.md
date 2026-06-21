@@ -8,8 +8,9 @@ I am a Ph.D. computer scientist working in the fields of AI/ML and software engi
 
 ## Personal
 
-My wife Samantha and I reside in north Alabama and have three children. I am a graduate of the [Alabama School of Mathematics and Science][asms] and was honored to accept an appointment from Gov.&nbsp;Kay Ivey in 2025 to the [ASMS Board of Directors][asmsboard].
+My wife Samantha and I reside in north Alabama and have three children. I am a graduate of the [Alabama School of Mathematics and Science][asms] and was [honored to accept an appointment][appointed] from Gov.&nbsp;Kay Ivey in 2025 to the [ASMS Board of Directors][asmsboard].
 
+[appointed]: https://www.asms.net/news/outstanding-alumnus-dr-greg-bacon-class-of-1995-appointed-to-asms-school-board-by-governor-kay-ivey
 [asms]: https://www.asms.net/
 [asmsboard]: https://www.asms.net/about/boards
 
@@ -21,7 +22,7 @@ I completed the B.S., M.S., and Ph.D. degrees at The [University of Alabama in H
 
 I serve as Chief Technology Officer at OASYS,&nbsp;INC., a small business headquartered in Huntsville, Alabama with other locations around the United States. I teach as an adjunct instructor for the [UAH Computer Science Department][uahcs].
 
-An instrument-rated commercial pilot (Airplane Single-Engine Land) and flight instructor, I am a CFI with the [Redstone Arsenal Flying Activity][rafa].
+An instrument-rated [commercial pilot][cax] (Airplane Single-Engine Land) and [flight instructor][cfi], I am a CFI with the [Redstone Arsenal Flying Activity][rafa].
 
 [rafa]: http://www.flyingactivity.com/
 [uahcs]: https://www.cs.uah.edu/
@@ -29,3 +30,6 @@ An instrument-rated commercial pilot (Airplane Single-Engine Land) and flight in
 ## Research Interests
 
 My research interests include **LLMs**, **cybersecurity**, **computability**, **complexity**, **composability**, **requirements formalization**, and **digital engineering**.
+
+[cax]: /posts/faa-commercial-checkride-in-3-acts
+[cfi]: /posts/how-i-passed-my-cfi-checkride-first-attempt
