@@ -19,4 +19,6 @@ Google has its limitations. In a moment of resignation, a scientist named Jutta 
 
 One the WebCrawler has visited your essay about the naked incomprehension greeting a groups demand for censorship of pornography, the vast majority of its visitors will be searching for porn, naked, and
 
+The question of relevance is therefore not only about finding a page, but also about understanding why the page appears in the results. Search engines can be useful and entertaining, but users should remember that their results reflect the design and assumptions of the search engine. AltaVista showed that searching the web was possible; Google showed how much better ranking could make it.
+
 www.uah exponent.com
