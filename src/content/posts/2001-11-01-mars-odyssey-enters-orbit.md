@@ -1,8 +1,8 @@
 ---
 title: "Mars Odyssey enters orbit"
 author: "Greg Bacon"
-date: "2026-08-08"
-description: "Bacon"
+date: "2026-08-10"
+description: "Mars Odyssey stuck the orbital insertion—and broke a NASA losing streak worth celebrating."
 tags:
   - "Exponent"
   - "UAH"
@@ -11,9 +11,7 @@ tags:
 
 *This Tech Talk column originally appeared in The Exponent (University of Alabama in Huntsville), Vol. 33, No. 10 (November 1, 2001). Digitized issue: [UAH LOUIS archive](https://louis.uah.edu/exponent-2001/19). Reproduced here with courtesy to that archive.*
 
-Bacon
-
-Last week, NASA broke a losing streak when Mars Odyssey successfully entered orbit around the planet Mars. According to a press release from NASA's Jet Propulsion Laboratory (JPL), Matt Landano—who is Odyssey project manager at JPL—said, “Odyssey flawlessly achieved last night’s one-time critical event of Mars orbit insertion. Hundreds and hundreds of things had to go right, and they did.” Inlight of the failures of the most recent missions to Mars—Mars Climate Orbiter and Mars Polar Lander—the success of the mission thus far has been a public relations win for the nation’s space agency.
+Last week, NASA broke a losing streak when Mars Odyssey successfully entered orbit around the planet Mars. According to a press release from NASA’s Jet Propulsion Laboratory (JPL), Matt Landano—who is Odyssey project manager at JPL—said, “Odyssey flawlessly achieved last night’s one-time critical event of Mars orbit insertion. Hundreds and hundreds of things had to go right, and they did.” Inlight of the failures of the most recent missions to Mars—Mars Climate Orbiter and Mars Polar Lander—the success of the mission thus far has been a public relations win for the nation’s space agency.
 
 Mars Orbit Insertion, as JPL scientists refer to the maneuver, began at 9:26 p.m. Central Time on Tuesday, October 23 when Odyssey fired its main engine. Soon after, Odyssey was behind Mars from Earth’s perspective, so radio communication was impossible. At 9:55 p.m., the Deep Space Network received a signal from Odyssey, and the Odyssey team met the news with jubilant cheering.
 
@@ -23,4 +21,4 @@ Before Odyssey can begin pursuing its primary science objectives, the next step 
 
 According to JPL’s Mars Odyssey website, “2001 Mars Odyssey will map chemical elements and minerals on the surface of Mars, look for water in the shallow subsurface, and analyze the radiation environment to determine its potential effects on human health.” These objectives are part of a broader set of goals for the Mars Exploration Program: (1) determine whether life ever arose on Mars, (2) characterize the climate on Mars, (3) characterize the geology of Mars, and (4) prepare for human exploration.
 
-For more information, visit JPL’s 2001 Mars Odyssey Home Page at `http://mars.jpl.nasa.gov/odyssey/`.
+For more information, visit JPL’s 2001 Mars Odyssey Home Page at [http://mars.jpl.nasa.gov/odyssey/](http://mars.jpl.nasa.gov/odyssey/).
