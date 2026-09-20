@@ -1,7 +1,7 @@
 ---
 title: "Scheduling finals without the headache"
 author: "Greg Bacon"
-date: "2026-07-26"
+date: "2026-08-05"
 description: "UAH’s no-three-finals-in-one-day rule sounds humane—until you try to schedule around it."
 tags:
   - "Exponent"
@@ -9,7 +9,7 @@ tags:
   - "Tech Talk"
 ---
 
-*This Tech Talk column originally appeared in The Exponent (University of Alabama in Huntsville), Vol. 32, No. 16 (January 18, 2001). Digitized issue: [UAH LOUIS archive](https://louis.uah.edu/exponent-2001/3). Reproduced here with courtesy to that archive.*
+*This Tech Talk column originally appeared in The Exponent (University of Alabama in Huntsville) on January 18, 2001 (Vol. 32, No. 16) and again later in substantially the same form. Digitized issues: [January 18, 2001](https://louis.uah.edu/exponent-2001/3) (Vol. 32, No. 16); [February 7, 2002](https://louis.uah.edu/exponent-2002/4) (Vol. 33, No. 19). Reproduced here with courtesy to that archive.*
 
 Want to become rich and famous while helping people out at the same time?
 

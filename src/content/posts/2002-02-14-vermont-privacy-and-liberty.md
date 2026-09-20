@@ -1,7 +1,7 @@
 ---
 title: "Vermont, privacy, and liberty"
 author: "Greg Bacon"
-date: "2026-07-31"
+date: "2026-08-08"
 description: "Vermont’s cold enough to freeze your eyelashes—and still warmer on privacy than most of America."
 tags:
   - "Exponent"

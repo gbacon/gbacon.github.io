@@ -1,7 +1,7 @@
 ---
 title: "Does libertarianism lead to statism?"
 author: "Greg Bacon"
-date: "2026-07-24"
+date: "2026-07-31"
 description: "Pat Buchanan says libertarianism leads to statism—his no-fault-divorce punchline doesn’t survive contact with logic."
 tags:
   - "Exponent"

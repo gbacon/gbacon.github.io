@@ -1,7 +1,7 @@
 ---
 title: "Grammar checkers and sand in the carpet"
 author: "Greg Bacon"
-date: "2026-07-21"
+date: "2026-08-03"
 description: "Sand in the carpet after a beach trip is annoying; grammar checkers that ‘fix’ what you meant are worse."
 tags:
   - "Exponent"
