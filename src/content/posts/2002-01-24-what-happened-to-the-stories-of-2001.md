@@ -1,7 +1,7 @@
 ---
 title: "What happened to the stories of 2001?"
 author: "Greg Bacon"
-date: "2026-08-18"
+date: "2026-08-28"
 description: "After September 11th the rest of 2001’s news vanished; here’s what we stopped talking about."
 tags:
   - "Exponent"
