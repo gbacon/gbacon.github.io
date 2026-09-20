@@ -1,7 +1,7 @@
 ---
 title: "Search engines and a cool idea from 1995"
 author: "Greg Bacon"
-date: "2026-08-28"
+date: "2026-08-30"
 description: "In 1995 a simple form searched the whole Web; Google turned the same idea into a programming contest."
 tags:
   - "Exponent"
