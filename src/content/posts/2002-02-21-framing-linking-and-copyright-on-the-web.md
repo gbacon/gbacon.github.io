@@ -1,7 +1,7 @@
 ---
 title: "Framing, linking, and copyright on the Web"
 author: "Greg Bacon"
-date: "2026-08-30"
+date: "2026-09-04"
 description: "The Ninth Circuit’s framing-and-linking ruling forgot that a reasonable person still uses a browser."
 tags:
   - "Exponent"
