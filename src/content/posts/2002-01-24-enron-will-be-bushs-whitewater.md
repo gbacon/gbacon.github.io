@@ -1,7 +1,7 @@
 ---
 title: "Enron will be Bush’s Whitewater?"
 author: "Greg Bacon"
-date: "2026-07-14"
+date: "2026-07-24"
 description: "Cable news crowns Enron as Bush’s Whitewater—while quietly skipping the Clinton-era chapter."
 tags:
   - "Exponent"

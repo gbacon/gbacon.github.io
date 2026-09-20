@@ -1,7 +1,7 @@
 ---
 title: "Filtering the Web to protect children"
 author: "Greg Bacon"
-date: "2026-07-11"
+date: "2026-07-21"
 description: "Election-season promises to protect kids online usually mean filters that catch a lot more than porn."
 tags:
   - "Exponent"

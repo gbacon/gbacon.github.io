@@ -1,7 +1,7 @@
 ---
 title: "Napster, open source, and why artists create"
 author: "Greg Bacon"
-date: "2026-07-16"
+date: "2026-07-26"
 description: "Bertelsmann bought Napster a subscription future; artists still create when the gatekeepers aren’t paying."
 tags:
   - "Exponent"

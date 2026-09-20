@@ -1,7 +1,7 @@
 ---
 title: "Email privacy and the postcard problem"
 author: "Greg Bacon"
-date: "2026-07-09"
+date: "2026-07-19"
 description: "If the Post Office delivered only postcards, you’d encrypt your mail—so why treat email like an open card?"
 tags:
   - "Exponent"
@@ -9,9 +9,7 @@ tags:
   - "Tech Talk"
 ---
 
-*This Tech Talk column originally appeared in The Exponent (University of Alabama in Huntsville), Vol. 32, No. 8 (October 19, 2000). Digitized issue: [UAH LOUIS archive](https://louis.uah.edu/exponent-2000/22). Reproduced here with courtesy to that archive.*
-
-*“Email privacy and the postcard problem” also ran (lightly revised) as Tech Talk on 2002-03-21.*
+*This Tech Talk column originally appeared in The Exponent (University of Alabama in Huntsville) on October 19, 2000 (Vol. 32, No. 8) and again later in substantially the same form. Digitized issues: [October 19, 2000](https://louis.uah.edu/exponent-2000/22) (Vol. 32, No. 8); [March 21, 2002](https://louis.uah.edu/exponent-2002/25) (Vol. 33, No. 25). Reproduced here with courtesy to that archive.*
 
 What if the U.S. Postal Service decreed that it would only deliver postcards after today? Such a decision wouldn’t be as catastrophic as it might seem. You could still use the mail to pay your bills: “Please charge my phone bill to credit card XXXX-XXXX-XXXX-XXXX.” You’d have to attach a check to your credit card bill or maybe play balance-transfer roulette. Your employer could use the same method to send your paycheck.
 

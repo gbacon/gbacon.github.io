@@ -1,7 +1,7 @@
 ---
 title: "CueCat, URLs, and trivial patents"
 author: "Greg Bacon"
-date: "2026-07-04"
+date: "2026-07-14"
 description: "Barcode scanners, Coke bottles, and why the Patent Office keeps minting monopolies for the obvious."
 tags:
   - "Exponent"

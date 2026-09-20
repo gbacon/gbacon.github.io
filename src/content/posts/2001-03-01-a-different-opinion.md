@@ -1,7 +1,7 @@
 ---
 title: "A different opinion"
 author: "Greg Bacon"
-date: "2026-07-06"
+date: "2026-07-16"
 description: "When proration hits the schools, the first cut is often the ability to think for yourself."
 tags:
   - "Exponent"
@@ -9,7 +9,7 @@ tags:
   - "Politically Dissident"
 ---
 
-*This Politically Dissident column originally appeared in The Exponent (University of Alabama in Huntsville), Vol. 32, No. 22 (March 1, 2001). Digitized issue: [UAH LOUIS archive](https://louis.uah.edu/exponent-2001/7). Reproduced here with courtesy to that archive.*
+*This Politically Dissident column originally appeared in The Exponent (University of Alabama in Huntsville) on March 1, 2001 (Vol. 32, No. 22) and again later in substantially the same form. Digitized issues: [March 1, 2001](https://louis.uah.edu/exponent-2001/7) (Vol. 32, No. 22); [March 7, 2002](https://louis.uah.edu/exponent-2002/8) (Vol. 33, No. 23). Reproduced here with courtesy to that archive.*
 
 The only real cut so far in the threatened state budget proration is a slash in people’s most valuable asset: the ability to think rationally.
 

@@ -1,7 +1,7 @@
 ---
 title: "Should people or machines count votes?"
 author: "Greg Bacon"
-date: "2026-07-19"
+date: "2026-07-29"
 description: "Florida’s recount asked whether humans or machines should count ballots—and neither side trusted the answer."
 tags:
   - "Exponent"
