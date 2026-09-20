@@ -1,7 +1,7 @@
 ---
 title: "The GPL gets its day in court"
 author: "Greg Bacon"
-date: "2026-09-07"
+date: "2026-09-12"
 description: "The GPL finally walked into a courtroom, and proprietary vendors suddenly cared about free-software licenses."
 tags:
   - "Exponent"

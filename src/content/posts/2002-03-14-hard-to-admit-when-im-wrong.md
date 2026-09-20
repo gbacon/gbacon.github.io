@@ -1,7 +1,7 @@
 ---
 title: "Hard to admit when I’m wrong"
 author: "Greg Bacon"
-date: "2026-09-12"
+date: "2026-09-14"
 description: "Ego hates confession; Marsellus Wallace’s line about pride still cuts clean through consumer debt."
 tags:
   - "Exponent"
