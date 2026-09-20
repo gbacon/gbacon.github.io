@@ -1,7 +1,7 @@
 ---
 title: "Late-night TV and product spoofs"
 author: "Greg Bacon"
-date: "2026-09-04"
+date: "2026-09-07"
 description: "SNL’s ‘we make change—volume’ joke became every dot-com plan; Google’s AdWords actually charges for clicks."
 tags:
   - "Exponent"
