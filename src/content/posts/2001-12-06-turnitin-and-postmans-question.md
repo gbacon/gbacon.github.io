@@ -1,7 +1,7 @@
 ---
 title: "Turnitin.com and Postman’s question"
 author: "Greg Bacon"
-date: "2026-08-13"
+date: "2026-08-23"
 description: "Turnitin.com catches plagiarists; Neil Postman asked the better question: what does the technology undo?"
 tags:
   - "Exponent"

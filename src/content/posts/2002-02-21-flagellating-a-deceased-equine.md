@@ -1,7 +1,7 @@
 ---
 title: "Flagellating a deceased equine"
 author: "Greg Bacon"
-date: "2026-08-08"
+date: "2026-08-18"
 description: "Another round of campus culture-war venom over ‘At His Feet’—beating a horse that’s already dead."
 tags:
   - "Exponent"

@@ -1,7 +1,7 @@
 ---
 title: "Mars Odyssey enters orbit"
 author: "Greg Bacon"
-date: "2026-08-10"
+date: "2026-08-20"
 description: "Mars Odyssey stuck the orbital insertion—and broke a NASA losing streak worth celebrating."
 tags:
   - "Exponent"

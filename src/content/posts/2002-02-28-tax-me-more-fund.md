@@ -1,7 +1,7 @@
 ---
 title: "Tax Me More Fund"
 author: "Greg Bacon"
-date: "2026-08-15"
+date: "2026-08-25"
 description: "Alabama Libertarians opened a Tax Me More PAC—donations still lag enthusiasm for higher rates."
 tags:
   - "Exponent"
