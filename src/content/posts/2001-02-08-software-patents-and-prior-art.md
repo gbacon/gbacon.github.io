@@ -1,7 +1,7 @@
 ---
 title: "Software patents and prior art"
 author: "Greg Bacon"
-date: "2026-07-29"
+date: "2026-08-10"
 description: "BountyQuest will pay you ten grand to prove the Patent Office rubber-stamped someone else’s prior art."
 tags:
   - "Exponent"

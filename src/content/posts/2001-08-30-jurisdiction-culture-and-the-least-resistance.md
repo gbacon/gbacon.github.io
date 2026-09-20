@@ -1,7 +1,7 @@
 ---
 title: "Jurisdiction, culture, and the least resistance"
 author: "Greg Bacon"
-date: "2026-08-05"
+date: "2026-08-15"
 description: "If you could pick your laws like a cable package, where would you actually choose to live?"
 tags:
   - "Exponent"

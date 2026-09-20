@@ -1,7 +1,7 @@
 ---
 title: "Compound interest and Social Security"
 author: "Greg Bacon"
-date: "2026-08-03"
+date: "2026-08-13"
 description: "Compound interest builds fortunes; Social Security hopes you’ll never run the numbers."
 tags:
   - "Exponent"
@@ -9,7 +9,7 @@ tags:
   - "Tech Talk"
 ---
 
-*This Tech Talk column originally appeared in The Exponent (University of Alabama in Huntsville), Vol. 32, No. 22 (March 1, 2001). Digitized issue: [UAH LOUIS archive](https://louis.uah.edu/exponent-2001/7). Reproduced here with courtesy to that archive.*
+*This Tech Talk column originally appeared in The Exponent (University of Alabama in Huntsville) on March 1, 2001 (Vol. 32, No. 22) and again later in substantially the same form. Digitized issues: [March 1, 2001](https://louis.uah.edu/exponent-2001/7) (Vol. 32, No. 22); [January 31, 2002](https://louis.uah.edu/exponent-2002/3) (Vol. 33, No. 18). Reproduced here with courtesy to that archive.*
 
 Do you want to know an easy way to get rich? Will Social Security even be around when it comes time for you to quit work for good, kick back in your easy chair, and play Canasta on Friday nights? Everyone wants to get rich, so the former question is a no-brainer. The answer to the latter question is probably no, though, and that’s why government continues to force young workers to carry an unfair share of the nation’s economic burden. People in the “traditional student” age range SUCK when it comes to living up to our duty to vote while nine out of ten registered seniors vote at every opportunity. It’s no wonder that seniors get all the attention, but that’s another article in another section.
 
