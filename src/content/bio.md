@@ -20,16 +20,17 @@ I completed the B.S., M.S., and Ph.D. degrees at The [University of Alabama in H
 
 ## Current Work
 
-I serve as Chief Technology Officer at OASYS,&nbsp;INC., a small business headquartered in Huntsville, Alabama with other locations around the United States. I teach as an adjunct instructor for the [UAH Computer Science Department][uahcs].
+I serve as Chief Technology Officer at OASYS,&nbsp;INC., a small business headquartered in Huntsville, Alabama with other locations around the United States. I teach as an [adjunct instructor] for the [UAH Computer Science Department][uahcs].
 
 An instrument-rated [commercial pilot][cax] (Airplane Single-Engine Land) and [flight instructor][cfi], I am a CFI with the [Redstone Arsenal Flying Activity][rafa].
 
 [rafa]: http://www.flyingactivity.com/
 [uahcs]: https://www.cs.uah.edu/
+[adjunct instructor]: https://www.uah.edu/science/departments/computer-science/faculty-staff/greg-bacon
 
 ## Research Interests
 
-My research interests include **LLMs**, **cybersecurity**, **computability**, **complexity**, **composability**, **requirements formalization**, and **digital engineering**.
+My research interests include **LLM alignment**, **cybersecurity**, **computability**, **complexity**, **composability**, **requirements formalization**, and **digital engineering**.
 
 [cax]: /posts/faa-commercial-checkride-in-3-acts
 [cfi]: /posts/how-i-passed-my-cfi-checkride-first-attempt
