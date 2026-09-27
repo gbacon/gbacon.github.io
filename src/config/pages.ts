@@ -22,8 +22,8 @@ export const PAGES: PagesConfig = {
         isActive: true,
     },
     projects: {
-        title: "Code",
-        subtitle: "Open source contributions.",
+        title: "Code & Projects",
+        subtitle: "Open source contributions and technological experiments.",
         isActive: true,
     },
     teaching: {

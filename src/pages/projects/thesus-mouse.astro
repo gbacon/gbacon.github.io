@@ -1,0 +1,20 @@
+---
+const destination = "/projects/theseus-mouse";
+const canonical = new URL(destination, Astro.site).toString();
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="refresh" content={`0; url=${destination}`} />
+    <link rel="canonical" href={canonical} />
+    <title>Theseus Maze-Solving Machine</title>
+  </head>
+  <body>
+    <p>
+      This page has moved to
+      <a href={destination}>{destination}</a>.
+    </p>
+  </body>
+</html>

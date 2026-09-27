@@ -3,17 +3,18 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import BaseItemCard from "../../components/ui/BaseItemCard.astro";
 import { getAllTags, getContentByTag } from "../../utils/tags";
 import { getListingItem } from "../../utils/adapters";
+import { slugifyTag } from "../../utils/tags";
 import { SITE } from "../../config";
 
 export async function getStaticPaths() {
     const tags = await getAllTags();
     return tags.map((tag) => ({
-        params: { tag: tag.name },
+        params: { tag: slugifyTag(tag.name) },
         props: { tagName: tag.name },
     }));
 }
 
-const { tag } = Astro.params;
+//const { tag } = Astro.params;
 const { tagName } = Astro.props;
 
 const content = await getContentByTag(tagName);

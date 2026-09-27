@@ -6,7 +6,7 @@ import sitemap from '@astrojs/sitemap';
 
 import tailwindcss from '@tailwindcss/vite';
 
-import { affiliateLinkPlugin } from './src/plugins/remark-affiliate-links.mjs';
+import { affiliateLinkPlugin } from './src/plugins/rehype-affiliate-links.mjs';
 
 // https://astro.build/config
 export default defineConfig({
@@ -34,7 +34,8 @@ export default defineConfig({
       filter: (page) => {
         return !page.includes('/404') &&
                !page.match(/\/posts\/\d+\/?$/) &&
-               !page.includes('/dev-tools/');
+               !page.includes('/dev-tools/') &&
+               !page.match(/\/projects\/thesus-mouse\/?$/);
       },
     })
   ],

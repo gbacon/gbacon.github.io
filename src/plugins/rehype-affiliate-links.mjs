@@ -1,4 +1,9 @@
 import { visit } from 'unist-util-visit';
+import {
+  PAID_LINK_TEXT,
+  isAmazonUrl,
+  externalLinkRel,
+} from '../utils/affiliate-links.ts';
 
 export function affiliateLinkPlugin() {
   return (tree) => {
@@ -6,22 +11,20 @@ export function affiliateLinkPlugin() {
       if (node.tagName === 'a' && node.properties?.href) {
         const href = node.properties.href;
 
-        if (href.includes('amazon.com') || href.includes('amzn.to')) {
+        if (isAmazonUrl(href)) {
           const hasPaidText = node.children?.some(child =>
-            typeof child.value === 'string' && child.value.includes('(paid link)')
+            typeof child.value === 'string' && child.value.includes(PAID_LINK_TEXT.trim())
           );
 
           if (!hasPaidText) {
             node.children.push({
               type: 'text',
-              value: ' (paid link)'
+              value: PAID_LINK_TEXT
             });
           }
 
-          // Optional but recommended
-          node.properties.rel = (node.properties.rel || '')
-            ? `${node.properties.rel} sponsored`
-            : 'sponsored';
+          // Mark affiliate links as sponsored
+          node.properties.rel = externalLinkRel(href);
         }
       }
     });

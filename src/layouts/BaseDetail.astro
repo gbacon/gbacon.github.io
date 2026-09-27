@@ -6,7 +6,7 @@ import Tag from "../components/ui/Tag.astro";
 import Icon from "../components/ui/Icon.astro";
 import { getDetailItem } from "../utils/adapters";
 import { SITE } from "../config";
-import AffiliateLink from '../components/AffiliateLink.astro';
+import ExternalLink from '../components/ExternalLink.astro';
 
 interface Props {
     collection: "publications" | "talks" | "projects" | "posts" | "teaching";
@@ -38,9 +38,9 @@ const ogImage = entry.data.image || SITE.ogImage;
     <div class="flex justify-between items-center mb-4">
         <BackLink href={detail.backHref} label={collection} />
         {detail.externalUrl && (
-            <AffiliateLink href={detail.externalUrl} class="link">
+            <ExternalLink href={detail.externalUrl} class="link">
                 View external
-            </AffiliateLink>
+            </ExternalLink>
         )}
     </div>
 

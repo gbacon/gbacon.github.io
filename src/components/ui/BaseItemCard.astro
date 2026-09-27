@@ -1,7 +1,7 @@
 ---
 import Tag from "./Tag.astro";
 import Icon from "./Icon.astro";
-import AffiliateLink from '../../components/AffiliateLink.astro';
+import ExternalLink from '../../components/ExternalLink.astro';
 
 interface Props {
     title: string;
@@ -58,9 +58,9 @@ const { title, href, description, date, authors, extraInput, tags, externalUrl }
     {
         externalUrl && (
             <div class="flex-shrink-0">
-                <AffiliateLink href={externalUrl} class="card-link">
+                <ExternalLink href={externalUrl} class="card-link">
                     View
-                </AffiliateLink>
+                </ExternalLink>
             </div>
         )
     }

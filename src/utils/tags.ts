@@ -51,3 +51,15 @@ export async function getContentByTag(tag: string) {
         return dateB.getTime() - dateA.getTime();
     });
 }
+
+export function slugifyTag(name: string): string {
+  const normalized = name.trim().toLowerCase();
+
+  if (normalized === "c#") return "c-sharp";
+  if (normalized === "v&v") return "v-and-v";
+
+  return normalized
+    .replace(/&/g, " and ")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
