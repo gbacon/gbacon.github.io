@@ -27,3 +27,8 @@
 - LaTeX math rendering via remark-math/rehype-katex
 - Analytics supported via GA4 (`ga4Id`) and Umami (`umami.websiteId`) — configure in `src/config/site.ts`
 - No lint/typecheck scripts configured
+## Amazon affiliate links
+- The Associates tag lives only in `src/config/affiliate.ts` (`AMAZON_ASSOCIATES_TAG`).
+- In Markdown, write `[*Title*](https://www.amazon.com/dp/ASIN)` with no tag. `src/plugins/rehype-affiliate-links.mjs` rewrites any amazon.com product URL to `https://www.amazon.com/dp/ASIN?tag=<tag>`, appends “(paid link)”, and sets `rel="… sponsored"`. Front-matter `external_url` links get the same treatment via `ExternalLink.astro`.
+- In `.astro` files, use `<AmazonLink asin="…">…</AmazonLink>` (`src/components/AmazonLink.astro`).
+- Pages with Amazon links automatically show the “As an Amazon Associate I earn from qualifying purchases.” line near the top (`AffiliateDisclosure.astro`), unless the content already contains that sentence.

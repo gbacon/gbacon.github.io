@@ -153,9 +153,9 @@ AI/ML, LLM Applications, Software Engineering, Real-Time and Embedded Systems, S
 * 2001, Open Water Diver,  Professional Association of Diving Instructors (PADI)
 
 ## Other Technical Contributions
-* 2008, Acknowledged contributions. [*Real World Haskell* by Bryan O’Sullivan *et al.*](https://www.amazon.com/Real-World-Haskell-Bryan-OSullivan/dp/0596514980?&linkCode=ll2&tag=bloggbaconcom-20&linkId=e04dc3632848b66b671950f9a7d33b56&language=en_US&ref_=as_li_ss_tl)
-* 2005, Acknowledged contributions. [*Higher-Order Perl* by Mark Dominus](https://www.amazon.com/Higher-Order-Perl-Transforming-Programs/dp/1558607013?&linkCode=ll2&tag=bloggbaconcom-20&linkId=b4ed76774f88819423e97c83edab6277&language=en_US&ref_=as_li_ss_tl)
-* 2003, Acknowledged contributions. [*The Perl Cookbook* by Tom Christiansen & Nat Torkington](https://www.amazon.com/Perl-Cookbook-Second-Tom-Christiansen/dp/0596003137?&linkCode=ll2&tag=bloggbaconcom-20&linkId=c087096c47604fdb4948b606d2c79957&language=en_US&ref_=as_li_ss_tl)
+* 2008, Acknowledged contributions. [*Real World Haskell* by Bryan O’Sullivan *et al.*](https://www.amazon.com/dp/0596514980)
+* 2005, Acknowledged contributions. [*Higher-Order Perl* by Mark Dominus](https://www.amazon.com/dp/1558607013)
+* 2003, Acknowledged contributions. [*The Perl Cookbook* by Tom Christiansen & Nat Torkington](https://www.amazon.com/dp/0596003137)
 * 1998, Charter moderator, `comp.lang.perl.moderated` Usenet newsgroup
 
 ## Skills

@@ -1,0 +1,20 @@
+---
+/**
+ * Amazon affiliate link from just an ASIN, for .astro pages:
+ *   <AmazonLink asin="0596528124"><em>Mastering Regular Expressions</em></AmazonLink>
+ * The Associates tag comes from src/config/affiliate.ts. In Markdown, just
+ * write [Title](https://www.amazon.com/dp/ASIN) and the rehype plugin adds the tag.
+ */
+import ExternalLink from './ExternalLink.astro';
+import { amazonUrl } from '../utils/affiliate-links';
+
+interface Props {
+    asin: string;
+    class?: string;
+    [key: string]: any;
+}
+
+const { asin, ...rest } = Astro.props;
+---
+
+<ExternalLink href={amazonUrl(asin)} {...rest}><slot /></ExternalLink>

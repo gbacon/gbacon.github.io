@@ -212,6 +212,6 @@ That’s also why the peg game makes a better example than it has any right to. 
 
 The [slides](https://blog.gbacon.com/puzzle15/) and [code](https://github.com/gbacon/puzzle15) are free. The next time you’re stuck waiting for a table, you can win the peg game and still say a computer did it.
 
-[taocp4b]: https://www.amazon.com/dp/0201038064?tag=bloggbaconcom-20
-[kroening]: https://www.amazon.com/dp/3662504960?tag=bloggbaconcom-20
-[sipser]: https://www.amazon.com/dp/113318779X?tag=bloggbaconcom-20
+[taocp4b]: https://www.amazon.com/dp/0201038064
+[kroening]: https://www.amazon.com/dp/3662504960
+[sipser]: https://www.amazon.com/dp/113318779X

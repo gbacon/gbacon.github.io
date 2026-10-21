@@ -11,6 +11,8 @@ The most important part to learning regular expressions or “regex” is the co
 
 If you think of regular expressions as building blocks that you can mix and match as you please, it helps you learn how to write and debug your own patterns but also how to understand patterns written by others.
 
+If you prefer to learn from a book, Ben Forta’s [*Learning Regular Expressions*][22] is a gentle introduction, and Jeffrey Friedl’s [*Mastering Regular Expressions*][17] goes deep on how regex engines actually work.
+
 ## Start simple
 
 Conceptually, the simplest regular expressions are literal characters. The pattern `N` matches the character ‘N’.
@@ -161,11 +163,11 @@ Regular expressions are recursive, so now that you understand these basic rules,
   [14]: https://www.regextester.com/
   [15]: http://regexstorm.net/
   [16]: https://www.debuggex.com/
-  [17]: https://www.amazon.com/Mastering-Regular-Expressions-Jeffrey-Friedl/dp/0596528124?&linkCode=ll2&tag=bloggbaconcom-20&linkId=6a2f90a7e9b938df133fe5dbdd5c7e97&language=en_US&ref_=as_li_ss_tl
+  [17]: https://www.amazon.com/dp/0596528124
   [20]: http://www.addedbytes.com/cheat-sheets/regular-expressions-cheat-sheet/
-  [rpg]: https://www.amazon.com/Regex-Pocket-Guide-Expressions-Professionals-ebook/dp/B0FQ4DMHKP?&linkCode=ll2&tag=bloggbaconcom-20&linkId=093b24d7dd5a45efaca74064f81dd31c&language=en_US&ref_=as_li_ss_tl
-  [21]: https://www.amazon.com/Regular-Expressions-Cookbook-Solutions-Programming-ebook/dp/B008Y4OP1O?&linkCode=ll2&tag=bloggbaconcom-20&linkId=70595e05fbe31b40d2216e61052a0612&language=en_US&ref_=as_li_ss_tl
-  [22]: https://www.amazon.com/Learning-Regular-Expressions-Ben-Forta-ebook/dp/B07CGNFKQ4?&linkCode=ll2&tag=bloggbaconcom-20&linkId=55861d967f78f1ea56312de18c68aa5b&language=en_US&ref_=as_li_ss_tl
+  [rpg]: https://www.amazon.com/dp/B0FQ4DMHKP
+  [21]: https://www.amazon.com/dp/B008Y4OP1O
+  [22]: https://www.amazon.com/dp/B07CGNFKQ4
   [23]: https://regexone.com/
   [24]: http://neverfear.org/blog/view/Regex_tutorial_for_people_who_should_know_Regex__but_do_not___Part_1
   [25]: http://www.greenend.org.uk/rjk/2002/06/regexp.html

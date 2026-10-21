@@ -53,5 +53,5 @@ The [FAA Weight and Balance Handbook][wb] in Figure 2-15 gives a few examples th
 
 The figures are within 2% for the top lot and off by a fraction of a percent for the bottom.
 
-[phak]: https://www.amazon.com/Pilots-Handbook-Aeronautical-Knowledge-FAA-H-8083-25C/dp/1510779876?&linkCode=ll2&tag=bloggbaconcom-20&linkId=49940643c9943d5bc485a8eebdb91850&language=en_US&ref_=as_li_ss_tl
-[wb]: https://www.amazon.com/Weight-Balance-Handbook-FAA-H-8083-1B-Color/dp/B09MG914N6?&linkCode=ll2&tag=bloggbaconcom-20&linkId=4190d29e9e596d416092239157da8d98&language=en_US&ref_=as_li_ss_tl
+[phak]: https://www.amazon.com/dp/1510779876
+[wb]: https://www.amazon.com/dp/B09MG914N6

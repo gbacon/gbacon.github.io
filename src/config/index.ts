@@ -3,3 +3,5 @@ export { NAV_LINKS } from "./navigation";
 export { SOCIALS, SOCIAL_ICONS } from "./social";
 export { PAGES } from "./pages";
 export { THEMES, type Theme, type ThemeName } from "./themes";
+export { AMAZON_ASSOCIATES_TAG, AMAZON_DISCLOSURE } from "./affiliate";
+

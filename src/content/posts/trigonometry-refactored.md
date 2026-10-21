@@ -6,7 +6,7 @@ author: "Greg Bacon"
 tags:
  - "Math"
 ---
-One afternoon on IRC’s #perl, the topic was “Trig [refactored](http://xp.c2.com/RefactorMercilessly.html) to remove sin/cos/tan” with a pointer to the upcoming [*Divine Proportions: Rational Trigonometry to Universal Geometry* by N.J. Wildberger](https://www.amazon.com/Divine-Proportions-Rational-Trigonometry-Universal/dp/097574920X?&linkCode=ll2&tag=bloggbaconcom-20&linkId=e00087a908b9e36a30c22c02c01e2412&language=en_US&ref_=as_li_ss_tl).
+One afternoon on IRC’s #perl, the topic was “Trig [refactored](http://xp.c2.com/RefactorMercilessly.html) to remove sin/cos/tan” with a pointer to the upcoming [*Divine Proportions: Rational Trigonometry to Universal Geometry* by N.J. Wildberger](https://www.amazon.com/dp/097574920X).
 
 The [introduction](http://web.maths.unsw.edu.au/~norman/papers/Introduction.pdf) makes an ambitious claim:
 

@@ -259,7 +259,7 @@ patch to round out my night towered landings. Cost breakdown is below. The other
 category includes DPE fee, Sheppard Air, replacement foggles, and a copy of the
 [ASA Commercial Oral Exam Guide][asacax].
 
-[asacax]: https://www.amazon.com/Commercial-Pilot-Oral-Exam-Guide/dp/1644255367?crid=BWI9XGM58LTX&dib=eyJ2IjoiMSJ9.bV5OIIx8ygvdsSe63ImkKhTdnqMD4wxTTxPXBtzQhvsy_qWWSYHBah4kjkdh6njf1nW_2KuYwQo9uvhAtJvoUirCeoHgWebJmwwPrICilGcAfNwlgUYZzsTqAMITaW3AUIdCPd4FebmBd81fS4m-R20t2qZ9z66HMa-YC_rYerpxyHiXOb8vHQKS6fJ2ePF_HrlUAUOxQTILCmf7cMa0gMLr0rmcJrTSTMZt7xMxW90.x8i8c-Wy2v13eAP9_OcFkV-0BaoelQborUUeeLQLMLM&dib_tag=se&keywords=asa+commercial+oral+exam+guide&qid=1780181017&sprefix=asa+commercial+oral+%2Caps%2C145&sr=8-1&linkCode=ll2&tag=bloggbaconcom-20&linkId=72fbd8beb0b498f21e0bec05b6734f64&language=en_US&ref_=as_li_ss_tl
+[asacax]: https://www.amazon.com/dp/1644255367
 
 Category  |Cost
 :---------|---------:|

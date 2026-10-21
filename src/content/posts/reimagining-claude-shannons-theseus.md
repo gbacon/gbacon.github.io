@@ -13,8 +13,8 @@ Around 1950, Claude Shannon built **Theseus**, an electromechanical mouse that c
 
 I recently built a modern version of the idea in Rust.
 
-* [*The Rust Programming Language*](https://link.amazon/B0f5kyeaW)
-* [*Deep Reinforcement Learning Hands-On: A practical and easy-to-follow guide to RL from Q-learning and DQNs to PPO and RLHF*](https://link.amazon/B01rWY82O)
+* [*The Rust Programming Language*](https://www.amazon.com/dp/1718504446)
+* [*Deep Reinforcement Learning Hands-On: A practical and easy-to-follow guide to RL from Q-learning and DQNs to PPO and RLHF*](https://www.amazon.com/dp/1835882706)
 
 Mine is not an attempt to simulate Shannon’s relay circuitry. Instead, I started with a related question:
 
@@ -48,5 +48,7 @@ That makes the process considerably more interesting to watch than simply displa
 The implementation uses Rust for the maze, environment, agents, training, and evaluation; `egui`/`eframe` for the visualization; WebAssembly for browser execution; and Trunk for the web build.
 
 You can [run the experiment and read more about Shannon’s original Theseus on the project page](/projects/theseus-mouse), or [browse the Rust source on GitHub](https://github.com/gbacon/theseus-rs).
+
+For more about Shannon himself, see Jimmy Soni and Rob Goodman’s biography [*A Mind at Play: How Claude Shannon Invented the Information Age*](https://www.amazon.com/dp/1476766681).
 
 More than seventy-five years separate Shannon’s relays from a Q-table running in WebAssembly, but the underlying question remains recognizable: **how can a machine use what happened before to behave better the next time?**

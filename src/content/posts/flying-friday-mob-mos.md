@@ -98,12 +98,12 @@ These are the most recent station-specific products available. They confirm the 
 [brookley]: https://grokipedia.com/page/mobile_aeroplex_at_brookley#history
 [frev]: https://www.ecfr.gov/current/title-14/chapter-I/subchapter-D/part-61/subpart-A/section-61.56
 [grace]: https://graceondauphin.com/
-[iPad]: https://www.amazon.com/Apple-iPad-Pro-11-inch-Nano-Texture/dp/B0FWCWN83J?th=1&linkCode=ll2&tag=bloggbaconcom-20&linkId=2cb0b18bf4c314c103c1cad67ee23e38&language=en_US&ref_=as_li_ss_tl
+[iPad]: https://www.amazon.com/dp/B0FWCWN83J
 [kbfm]: https://www.airnav.com/airport/KBFM
-[kit]: https://www.amazon.com/Stratux-Kit-Parent-GPS-Puck/dp/B089QDHDNJ?th=1&linkCode=ll2&tag=bloggbaconcom-20&linkId=e01a37abd2681a89ccc5cf7816e81820&language=en_US&ref_=as_li_ss_tl
+[kit]: https://www.amazon.com/dp/B089QDHDNJ
 [kmob]: https://www.airnav.com/airport/kmob
 [paul]: https://paulrobichaux.com/category/aviation/
 [prompt]: https://x.com/pmarca/status/2051374498994364529
 [rafa]: http://www.flyingactivity.com/
 [ruha]: https://www.linkedin.com/in/ruha-tacey/
-[Stratux]: https://www.amazon.com/Stratux-Receiver-Aviation-Weather-Traffic/dp/B071HMQY19?th=1&linkCode=ll2&tag=bloggbaconcom-20&linkId=4756202ee73782628604885f0c000310&language=en_US&ref_=as_li_ss_tl
+[Stratux]: https://www.amazon.com/dp/B071HMQY19

@@ -3,7 +3,7 @@ title: "Perl Developer’s Dictionary"
 author: "Clinton Pierce (Greg Bacon, Technical Editor)"
 date: "2001-01-01"
 description: "A complete, well-organized reference to the Perl language and environment, including core syntax as well as Perl modules."
-external_url: https://www.amazon.com/Perl-Developers-Dictionary-Clinton-Pierce/dp/0672320673?&linkCode=ll2&tag=bloggbaconcom-20&linkId=f616b8fe62088cbfcc9af0e89030b06a&language=en_US&ref_=as_li_ss_tl
+external_url: https://www.amazon.com/dp/0672320673
 tags:
   - "Perl"
 ---
@@ -14,4 +14,4 @@ tags:
 
 I was the technical editor for this book, which involved checking the technical correctness of the descriptions and code samples.
 
-[book]: https://www.amazon.com/Perl-Developers-Dictionary-Clinton-Pierce/dp/0672320673?&linkCode=ll2&tag=bloggbaconcom-20&linkId=f616b8fe62088cbfcc9af0e89030b06a&language=en_US&ref_=as_li_ss_tl
+[book]: https://www.amazon.com/dp/0672320673

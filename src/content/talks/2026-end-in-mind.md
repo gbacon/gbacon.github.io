@@ -16,5 +16,5 @@ In the Catalyst SBIR Success Workshop, I applied a habit from the classic [Seven
 * Make It a Sales Document!
 * Changes in the Recent Reauthorization
 
-[habits]: https://www.amazon.com/Habits-Highly-Effective-People-Anniversary/dp/B086DD5KSJ?&linkCode=ll2&tag=bloggbaconcom-20&linkId=b96c6d36456f887e3955af97e2b7479f&language=en_US&ref_=as_li_ss_tl
+[habits]: https://www.amazon.com/dp/B086DD5KSJ
 [sbir]: https://www.sbir.gov/
