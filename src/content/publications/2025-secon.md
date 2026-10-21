@@ -4,7 +4,7 @@ author: "Greg Bacon and Vineetha Menon"
 date: "2025-03-28"
 journal: "IEEE SoutheastCon 2025"
 external_url: "https://doi.org/10.1109/SoutheastCon56624.2025.10971523"
-description: "Use of LLM as a business-development or research assistant, applied to the use case of SBIR/STTR and quantified against Latent Semantic Indexing (LSI)."
+description: "An LLM as research assistant for finding SBIR/STTR funding: embedding clusters measured against Latent Semantic Indexing, with a human in the loop."
 tags:
   - "AI-ML"
   - "LLM"

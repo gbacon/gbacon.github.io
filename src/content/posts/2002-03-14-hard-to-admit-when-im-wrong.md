@@ -2,7 +2,7 @@
 title: "Hard to admit when I’m wrong"
 author: "Greg Bacon"
 date: "2026-09-09"
-description: "It’s hard for me to admit when I’m wrong. I’d like to pretend that the difficulty comes from having learned to trust my judgment after being right time after time after time."
+description: "It’s hard to admit when I’m wrong. A Tech Talk column on ego over reason, from consumer debt and emacs vs. vi tribalism to the Microsoft antitrust case."
 tags:
   - "Exponent"
   - "UAH"

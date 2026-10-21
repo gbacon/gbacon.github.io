@@ -1,6 +1,6 @@
 ---
 title: "Word Ladder in Lisp"
-description: "Ascending with homoiconicity"
+description: "Ascending with homoiconicity. A Common Lisp word ladder solver: breadth-first search through a dictionary for the shortest path between two words."
 date: "2026-06-15"
 author: "Greg Bacon"
 smartypants: false

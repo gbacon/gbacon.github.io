@@ -1,6 +1,6 @@
 ---
 title: "I 𝘴𝘦𝘦𝘯 it!"
-description: "The Rocky Stop game"
+description: "The Rocky Stop game. My ticket stub from the 2005 Alabama–Tennessee game: the ugly game-winning kick, Roman Harper’s forced fumble, and seats at the 40."
 author: "Greg Bacon"
 date: "2007-05-18"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "My first monadic program"
 date: "2007-02-25"
-description: "Cracking the monads."
+description: "Cracking the monads. Solving Project Euler Problem 32, pandigital products, in Haskell with Parsec and the Maybe monad, then a cleaner list-monad version."
 author: "Greg Bacon"
 tags:
  - "Haskell"

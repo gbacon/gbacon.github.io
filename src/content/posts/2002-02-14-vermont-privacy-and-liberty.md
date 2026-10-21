@@ -2,7 +2,7 @@
 title: "Vermont, privacy, and liberty"
 author: "Greg Bacon"
 date: "2026-08-20"
-description: "If it weren't freezing cold three hundred days out of the year, Vermont could be a nice place to live."
+description: "Vermont is cold but free. This column looks at its opt-in financial privacy law, the insurance industry’s lawsuit against it, and permitless concealed carry."
 tags:
   - "Exponent"
   - "UAH"

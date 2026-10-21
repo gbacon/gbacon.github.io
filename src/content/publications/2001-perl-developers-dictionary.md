@@ -2,7 +2,7 @@
 title: "Perl Developer’s Dictionary"
 author: "Clinton Pierce (Greg Bacon, Technical Editor)"
 date: "2001-01-01"
-description: "A complete, well-organized reference to the Perl language and environment, including core syntax as well as Perl modules."
+description: "A complete, cross-referenced desk reference to Perl’s core syntax, functions, and modules for experienced developers. I was its technical editor."
 external_url: https://www.amazon.com/dp/0672320673
 tags:
   - "Perl"

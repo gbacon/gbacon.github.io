@@ -2,7 +2,7 @@
 title: "Tax Me More Fund"
 author: "Greg Bacon"
 date: "2026-08-30"
-description: "Alabamians recently acquired another opportunity for taxation, albeit voluntary: the Libertarian Party of Alabama recently registered the Tax Me More Fund PAC."
+description: "Want to pay more taxes? Alabama now has a fund for that. This column covers the Tax Me More PAC, the Shays-Meehan issue-ad ban, and concealed carry."
 tags:
   - "Exponent"
   - "UAH"

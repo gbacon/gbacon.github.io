@@ -1,6 +1,6 @@
 ---
 title: "Airworthiness calculator"
-description: "ATOMATOFLAMES and then some."
+description: "ATOMATOFLAMES and then some. Airworthiness rules are scattered across the FARs: a tour of ARROW, FAR 91.203, 91.205, and 91.213, and a handy calculator."
 author: "Greg Bacon"
 date: "2026-05-23"
 external_url: https://www.wificfi.com/post/airworthiness-calculator

@@ -1,6 +1,6 @@
 ---
 title: "Theseus Maze-Solving Machine"
-description: "An experiment from 1950 reimagined with Rust and WASM."
+description: "Claude Shannon’s 1950 Theseus machine learned a maze from experience. How the original worked, and a Rust/WebAssembly Q-learning version to run in your browser."
 tags:
   - "AI-ML"
   - "Robotics"

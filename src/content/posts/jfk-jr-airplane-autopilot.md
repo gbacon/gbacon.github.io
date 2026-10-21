@@ -1,6 +1,6 @@
 ---
 title: "Did JFK Jr.’s airplane have a working autopilot?"
-description: "Another sad aspect to this tragic crash."
+description: "Another sad aspect to this tragic crash. The NTSB report shows JFK Jr.’s airplane had a working autopilot and that CFIs saw him use it competently."
 author: "Greg Bacon"
 date: "2026-05-28"
 tags:

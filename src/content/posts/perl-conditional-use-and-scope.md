@@ -1,6 +1,6 @@
 ---
 title: "Perl: conditional use and scope"
-description: "Swapping libraries at compile time."
+description: "Swapping libraries at compile time. Why a Perl use inside an if always loads the module, and how BEGIN blocks with require or eval do the job properly."
 author: "Greg Bacon"
 date: "2010-03-01"
 tags:

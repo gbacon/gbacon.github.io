@@ -1,6 +1,6 @@
 ---
 title: "Word Ladder in Python"
-description: "It just looks so boring."
+description: "It just looks so boring. A Python word ladder solver: breadth-first search through a dictionary for the shortest ladder, and a list-comprehension slowdown."
 date: "2026-06-16"
 author: "Greg Bacon"
 tags:

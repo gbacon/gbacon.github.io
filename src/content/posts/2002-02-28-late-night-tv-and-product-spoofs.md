@@ -2,7 +2,7 @@
 title: "Late-night TV and product spoofs"
 author: "Greg Bacon"
 date: "2026-08-28"
-description: "Even though the quality of Saturday Night Live has diminished severely over the years, one feature of the comedy program is still as great as ever: the spoofed commercials."
+description: "“How do we make money? Volume.” The SNL spoof described the dot-com bubble. A Tech Talk column on ad-supported sites and Google’s AdWords Select."
 tags:
   - "Exponent"
   - "UAH"

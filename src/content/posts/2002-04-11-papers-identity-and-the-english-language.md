@@ -2,7 +2,7 @@
 title: "Papers, identity, and the English language"
 author: "Greg Bacon"
 date: "2026-09-17"
-description: "The English language is on the way to borrowing the following sentence from German: Zeigen Sie Ihre Papiere, Kameraden!"
+description: "“Zeigen Sie Ihre Papiere!” A Tech Talk column on driver licenses as papers, the Ninth and Tenth Amendments, and Social Security numbers as primary keys."
 tags:
   - "Exponent"
   - "UAH"

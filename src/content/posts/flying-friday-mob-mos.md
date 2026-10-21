@@ -1,6 +1,6 @@
 ---
 title: "Flying Friday: ASMS and ADM"
-description: "Aeronautical decision making in the twenty-first century."
+description: "Aeronautical decision making in the twenty-first century. Flying to Mobile for an ASMS board meeting, instrument currency, and planning around storms."
 author: "Greg Bacon"
 date: "2026-06-19"
 tags:

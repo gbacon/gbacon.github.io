@@ -1,6 +1,6 @@
 ---
 title: "How I Passed My CFI Checkride on the First Attempt"
-description: "I passed my CFI checkride on the first try in 2021 when the national pass rate was ~77%. I share the full system I used: heavy Anki spaced repetition, written exam strategies, and practical tips for the oral and flight portions."
+description: "Pass your CFI checkride on the first try: my Anki spaced-repetition system, FOI and FIA written test strategy, and tips for the CFI initial oral and flight."
 author: "Greg Bacon"
 date: "2026-05-30"
 tags:

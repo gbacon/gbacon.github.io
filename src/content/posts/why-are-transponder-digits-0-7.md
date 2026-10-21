@@ -1,6 +1,6 @@
 ---
 title: "Why are transponder digits only 0 to 7?"
-description: "Octal and human factors."
+description: "Octal and human factors. Why transponder squawk codes use only digits 0 to 7: 12-bit Mode A/C codes, short-term memory, and no invalid inputs."
 date: "2026-05-01"
 author: "Greg Bacon"
 tags:

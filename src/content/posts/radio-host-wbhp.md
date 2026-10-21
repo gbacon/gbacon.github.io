@@ -1,6 +1,6 @@
 ---
 title: "Guest host on WBHP’s The Morning Show with Toni & Gary"
-description: "If the code monkey thing doesn’t work out …"
+description: "If the code monkey thing doesn’t work out … My morning as guest host on WBHP’s The Morning Show with Toni & Gary: the razor wire, the booth, and the banter."
 author: "Greg Bacon"
 date: "2009-07-14"
 tags:

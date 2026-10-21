@@ -1,6 +1,6 @@
 ---
 title: "Dissertation acknowledgements"
-description: "Functional logfile processing."
+description: "On the anniversary of my dissertation defense, the Acknowledgements page in full: my committee, ASMS teachers and mentors, family, and the epigraph."
 author: "Greg Bacon"
 date: "2026-05-28"
 tags:

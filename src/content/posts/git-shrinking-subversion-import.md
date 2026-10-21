@@ -1,6 +1,6 @@
 ---
 title: "git: shrinking Subversion import"
-description: "Discarding historical binary cruft in your history."
+description: "Discarding historical binary cruft in your history. How we shrank git svn imports from gigabytes to about 100 MB with filter-branch and reflog pruning."
 author: "Greg Bacon"
 date: "2009-08-08"
 tags:

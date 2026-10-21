@@ -2,7 +2,7 @@
 title: "Begin with the End in Mind: Creating Your SBIR/STTR Proposal"
 author: "Greg Bacon"
 date: "2020-02-24"
-description: "A common proposal mistake and how to fix it."
+description: "A common proposal mistake and how to fix it. My Catalyst SBIR & STTR Summit 2020 talk on planning Phase III before writing your Phase I proposal."
 tags:
   - "SBIR"
 ---

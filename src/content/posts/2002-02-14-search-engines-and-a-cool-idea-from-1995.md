@@ -2,7 +2,7 @@
 title: "Search engines and a cool idea from 1995"
 author: "Greg Bacon"
 date: "2026-08-18"
-description: "Back in 1995, an acquaintance who worked at EDS pointed me to an interesting website where visitors were presented with a simple form."
+description: "AltaVista dazzled in 1995; Google got relevance right. A Tech Talk column on PageRank, paid keyword placement, and Google’s first programming contest."
 tags:
   - "Exponent"
   - "UAH"

@@ -2,7 +2,7 @@
 title: "Email privacy and the postcard problem"
 author: "Greg Bacon"
 date: "2026-07-01"
-description: "What if the U.S. Postal Service decreed that it would only deliver postcards after today? Such a decision wouldn't be as catastrophic as it might seem."
+description: "Would you mail your credit card number on a postcard? Email works that way. A Tech Talk column on Carnivore, subpoenaed email, and encryption with GPG."
 tags:
   - "Exponent"
   - "UAH"

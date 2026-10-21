@@ -2,7 +2,7 @@
 title: "Filtering the Web to protect children"
 author: "Greg Bacon"
 date: "2026-07-04"
-description: "As in any other election season, the topic of protecting children has been a hot one over the past few months."
+description: "Bush and Gore both backed mandatory web filters in schools and libraries. This Tech Talk column asks what counts as harmful and who controls the list."
 tags:
   - "Exponent"
   - "UAH"

@@ -2,7 +2,7 @@
 title: "CueCat, URLs, and trivial patents"
 author: "Greg Bacon"
 date: "2026-06-29"
-description: "If you've watched any late night TV or taken a trip to Radio Shack lately, you've seen the :CueCat from Digital: Convergence."
+description: "The :CueCat promised to banish long, ugly URLs, then sent lawyers after a Linux hacker. A 2000 Tech Talk column on barcodes and trivial software patents."
 tags:
   - "Exponent"
   - "UAH"

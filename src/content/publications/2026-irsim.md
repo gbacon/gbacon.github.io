@@ -4,7 +4,7 @@ author: "Michael Barnett, Daniel Kolenich, Greg Bacon, Lysle E. Shields III, Sta
 date: "2026-03-06"
 journal: "IEEE SoutheastCon 2026"
 external_url: "https://doi.org/10.1109/SoutheastCon63549.2026.11476640"
-description: "Generation of IR images from EO inputs based on training against paired and unpaired samples from the Recognition of Combatant - Vehicles (ROCV) dataset."
+description: "IRSim generates infrared images from electro-optical inputs with CycleGAN, trained on the ROCV dataset, to cut the cost of IR scenes for Army simulation."
 tags:
   - "AI-ML"
   - "Infrared"

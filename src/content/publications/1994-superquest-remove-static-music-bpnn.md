@@ -3,7 +3,7 @@ title: "Removing Static from Music Using a Back-Propagation Neural Network"
 author: "Richard Chen, Greg Bacon, Lisa Chang, and Carl “Mannix” Williams"
 date: "1994-06-24"
 journal: "SuperQuest 1994, The University of Alabama in Huntsville"
-description: "AI/ML before it was cool."
+description: "AI/ML before it was cool. Our ASMS SuperQuest team used a back-propagation neural network to remove static from music, with UAH and NASA Marshall."
 tags:
   - "AI-ML"
 ---

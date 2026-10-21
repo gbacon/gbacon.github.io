@@ -1,6 +1,6 @@
 ---
 title: "Learning Regular Expressions"
-description: "Don’t fear the regex!"
+description: "Don’t fear the regex! Learn regular expressions from the building blocks up: quantifiers, grouping, alternation, anchors, and greediness, plus tools and books."
 author: "Greg Bacon"
 date: "2026-06-30"
 tags:

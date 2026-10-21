@@ -1,7 +1,7 @@
 ---
 title: "Processing lines in a TextBox"
 date: "2005-07-05"
-description: "C# code to ingest all TextBox content."
+description: "C# code to ingest all TextBox content. A short example that reads a Windows Forms TextBox line by line with a StringReader, the same way you would read a file."
 author: "Greg Bacon"
 tags:
  - "C#"

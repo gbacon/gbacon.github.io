@@ -2,7 +2,7 @@
 title: "Flagellating a deceased equine"
 author: "Greg Bacon"
 date: "2026-08-23"
-description: "Let's flagellate a deceased equine."
+description: "Let’s flagellate a deceased equine. A libertarian defense of Exponent columnist Sarah Babin: the non-aggression principle and tolerating offensive views."
 tags:
   - "Exponent"
   - "UAH"

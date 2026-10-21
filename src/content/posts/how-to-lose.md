@@ -1,6 +1,6 @@
 ---
 title: "How to lose 6 in a row to a cow college"
-description: "South til you smell it, east til you step in it"
+description: "South til you smell it, east til you step in it. A one-line college football recipe for losing six in a row to a cow college, starring a house fern."
 date: "2007-11-25"
 author: "Greg Bacon"
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Just for you, Madeline"
-description: "Practice for our newest little reader."
+description: "Practice for our newest little reader. A word flash card app I built for my daughter’s phonics practice, with Wiktionary audio, revived with Ruffle."
 author: "Greg Bacon"
 date: "2026-05-07"
 tags:

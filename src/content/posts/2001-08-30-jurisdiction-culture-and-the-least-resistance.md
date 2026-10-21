@@ -2,7 +2,7 @@
 title: "Jurisdiction, culture, and the least resistance"
 author: "Greg Bacon"
 date: "2026-07-26"
-description: "Assuming that language barriers weren't a problem, would you still live in America?"
+description: "Would you still live in America if language were no barrier? A Tech Talk column on jurisdiction, the DMCA, and the arrest of Russian programmer Dmitry Sklyarov."
 tags:
   - "Exponent"
   - "UAH"

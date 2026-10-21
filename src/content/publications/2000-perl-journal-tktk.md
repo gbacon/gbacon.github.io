@@ -3,7 +3,7 @@ title: "Tktk: A Perl/Tk Solitaire Game"
 author: "Greg Bacon"
 date: "2000-06-01"
 journal: "The Perl Journal, Summer 2000, Vol. 5, No. 2, Issue 18"
-description: "Time killer in Perl/Tk."
+description: "Time killer in Perl/Tk. A Perl Journal article that builds a Pyramid-style solitaire game step by step: rules, Fisher-Yates shuffle, layout, and moves."
 external_url: https://www.amazon.com/dp/0596003129
 tags:
   - "Perl"

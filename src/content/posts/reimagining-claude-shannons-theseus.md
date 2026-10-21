@@ -1,6 +1,6 @@
 ---
 title: "Reimagining Claude Shannon’s Theseus in Rust"
-description: "A little Q-learning, a perfect maze, and two mice running in WebAssembly."
+description: "A little Q-learning, a perfect maze, and two mice running in WebAssembly. How I rebuilt Claude Shannon’s 1950 Theseus mouse in Rust, with a live demo."
 author: "Greg Bacon"
 date: "2026-09-26"
 tags:

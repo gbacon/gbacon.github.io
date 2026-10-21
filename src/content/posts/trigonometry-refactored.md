@@ -1,7 +1,7 @@
 ---
 title: "Trigonometry Refactored"
 date: "2026-05-26"
-description: "Universal geometry?"
+description: "Universal geometry? N.J. Wildberger’s Divine Proportions claims rational trigonometry can drop sin, cos, and tan for plain arithmetic and algebra."
 author: "Greg Bacon"
 tags:
  - "Math"

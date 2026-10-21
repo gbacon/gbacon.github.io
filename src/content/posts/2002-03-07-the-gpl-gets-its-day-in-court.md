@@ -2,7 +2,7 @@
 title: "The GPL gets its day in court"
 author: "Greg Bacon"
 date: "2026-09-04"
-description: "The Free Software Foundation's GNU General Public License (GPL) has received what is widely thought to be its first test in court."
+description: "The GPL got its first test in court in MySQL AB v. NuSphere. A Tech Talk column on Richard Stallman, free as in freedom vs. free as in beer, and the case."
 tags:
   - "Exponent"
   - "UAH"

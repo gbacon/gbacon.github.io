@@ -2,7 +2,7 @@
 title: "Napster, open source, and why artists create"
 author: "Greg Bacon"
 date: "2026-07-06"
-description: "Napster struck a deal with Bertelsmann, a media big dog, and will become a subscription-based service."
+description: "Napster went legit with Bertelsmann, and the doomsayers came out again. A Tech Talk column on why musicians, teachers, and hackers create without pay."
 tags:
   - "Exponent"
   - "UAH"

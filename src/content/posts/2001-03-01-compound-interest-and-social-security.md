@@ -2,7 +2,7 @@
 title: "Compound interest and Social Security"
 author: "Greg Bacon"
 date: "2026-07-24"
-description: "Do you want to know an easy way to get rich? Will Social Security even be around when it comes time for you to quit work for good, kick back in your easy chair, and play Canasta…"
+description: "Want an easy way to get rich? Start young. A Tech Talk column working through compound interest, taxes, and inflation, and the future of Social Security."
 tags:
   - "Exponent"
   - "UAH"

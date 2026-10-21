@@ -1,6 +1,6 @@
 ---
 title: "Where does the radical in the maneuvering speed formula come from?"
-description: "We don’t need no steenking square roots!"
+description: "We don’t need no steenking square roots! Derive the maneuvering speed formula from the lift equation and check it against the FAA Weight and Balance Handbook."
 date: "2026-06-23"
 author: "Greg Bacon"
 tags:

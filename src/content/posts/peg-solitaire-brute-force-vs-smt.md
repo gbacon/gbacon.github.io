@@ -1,6 +1,6 @@
 ---
 title: "15-Peg Solitaire: Brute Force vs. an SMT Solver"
-description: "Stop telling the computer how to search. Tell it what a win looks like."
+description: "Stop telling the computer how to search. Tell it what a win looks like. Solving the Cracker Barrel peg game by brute force, then with the Z3 SMT solver."
 author: "Greg Bacon"
 date: "2026-10-21"
 tags:

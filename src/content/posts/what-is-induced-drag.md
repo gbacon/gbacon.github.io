@@ -1,6 +1,6 @@
 ---
 title: "What is induced drag?"
-description: "Clearing up an unnecessarily vague description."
+description: "Clearing up an unnecessarily vague description. Why induced drag is inseparable from lift, explained with a diagram and vector decomposition of the lift vector."
 author: "Greg Bacon"
 date: "2026-06-15"
 tags:

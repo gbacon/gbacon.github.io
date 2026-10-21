@@ -4,7 +4,7 @@ author: "Greg Bacon and Vineetha Menon"
 date: "2024-03-20"
 journal: "IEEE SoutheastCon 2024"
 external_url: "https://doi.org/10.1109/SoutheastCon52093.2024.10500152"
-description: "Identification of technical fits based on opportunity descriptions and a team’s summary of capabilities. Unsupervised multiclass spectral clustering selected 3 out of 5 topics (in a corpus of 89) chosen by a team of human experts."
+description: "Can LLM embeddings find SBIR topics that fit a team’s capabilities? Spectral clustering picked 3 of the 5 topics experts chose from 89. SoutheastCon 2024."
 tags:
   - "AI-ML"
   - "LLM"

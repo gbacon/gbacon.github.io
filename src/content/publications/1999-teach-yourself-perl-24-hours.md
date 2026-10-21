@@ -2,7 +2,7 @@
 title: "SAMS Teach Yourself Perl in 24 Hours"
 author: "Clinton Pierce (Greg Bacon, Technical Editor)"
 date: "1999-11-19"
-description: "Tutorial on using Perl to create utilities and CGI webapps."
+description: "Tutorial on using Perl to create utilities and CGI webapps such as forms and shopping carts. I was technical editor of the 1999 first edition."
 external_url: https://www.amazon.com/dp/0672327937
 tags:
   - "Perl"
