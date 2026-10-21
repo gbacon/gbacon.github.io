@@ -1,6 +1,6 @@
 ---
 title: "What is induced drag?"
-description: "Clearing up an unnecessarily vague description. Why induced drag is inseparable from lift, explained with a diagram and vector decomposition of the lift vector."
+description: "What is induced drag? Clearing up the PHAK’s vague answer: aircraft induced drag is the rearward part of the lift vector, shown with a diagram and vector math."
 author: "Greg Bacon"
 date: "2026-06-15"
 tags:

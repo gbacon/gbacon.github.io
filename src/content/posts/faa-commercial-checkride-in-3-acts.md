@@ -1,6 +1,6 @@
 ---
 title: "Commercial Checkride in 3 Acts"
-description: "Adventures in passing the FAA Commercial Airplane Single Engine Land practical test: racing summer storms, the oral and flight, and a full cost breakdown."
+description: "Racing summer storms through an FAA commercial checkride: 61.123 requirements, scenario-based oral questions, the flight maneuvers, and a full cost breakdown."
 author: "Greg Bacon"
 date: "2026-05-18"
 ogImage: "/images/commercial-pass.jpg"
