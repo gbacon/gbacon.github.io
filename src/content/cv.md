@@ -14,6 +14,10 @@ experience:
     institution: "The University of Alabama in Huntsville (UAH)"
     period: "2022 – …"
     description: "Graduate and undergraduate instruction. Overall Student Instructor Evaluation scores of 4.65–5.00/5.00, consistently exceeding Department, College of Science, and University averages."
+  - role: "Flight Instructor"
+    institution: "Redstone Arsenal Flying Activity"
+    period: "2021 – …"
+    description: ""
   - role: "10Log10 Technical Fellow"
     institution: "deciBel Research, Inc."
     period: "2007 – 2013"
@@ -108,7 +112,7 @@ AI/ML, LLM Applications, Software Engineering, Real-Time and Embedded Systems, S
 1. G. Bacon and V. Menon, “[Use of large language model embeddings to predict research topic suitability based on organizational capabilities](/publications/2024-secon),” in *SoutheastCon 2024*, IEEE, Atlanta, GA, 2024, pp. 1376–1381. DOI: [10.1109/SoutheastCon52093.2024.10500152](https://doi.org/10.1109/SoutheastCon52093.2024.10500152).
 
 ### Dissertation
-* G. Bacon, “Toward measurable explainable ethical AI: An LLM-driven data analytics study,” ProQuest publication number 32116123. ISBN 9798286491377, Ph.D. dissertation, The University of Alabama in Huntsville, 2025. URL: <https://www.proquest.com/docview/3226546812>.
+* G. Bacon, “[Toward measurable explainable ethical AI: An LLM-driven data analytics study](https://www.proquest.com/docview/3226546812),” ProQuest publication number 32116123. ISBN 9798286491377, Ph.D. dissertation, The University of Alabama in Huntsville, 2025. URL: <https://www.proquest.com/docview/3226546812>.
 
 ### Other Conferences
 1. G. Bacon, “[Realtime verification & validation of the Space Shuttle Main Engine Controller software](/talks/2003-btec5),” Boeing Technical Excellence Conference 5, Seattle, WA, 2003.
@@ -133,6 +137,7 @@ AI/ML, LLM Applications, Software Engineering, Real-Time and Embedded Systems, S
 * 2021 – …, Program Advisory Board, Department of Computer Science, UAH
 * 2019 – …, Industrial Advisory Board, Department of Computer Science, UAH
 * 2016, Board of Directors, Huntsville Association of Small Businesses in Technology (HASBAT)
+* 2013, Cofounder, Omicron Research Corporation
 
 ## Professional Credentials
 * 2024, Institute of Electrical and Electronics Engineers (IEEE), Member
@@ -142,11 +147,29 @@ AI/ML, LLM Applications, Software Engineering, Real-Time and Embedded Systems, S
 * 2019, Commercial Pilot – Airplane Single Engine Land, FAA
 * 2017, Certificated Remote Pilot, FAA, FAR Part 107
 * 2016, Instrument – Airplane Rating, FAA
+* 2014, Aircraft Owners & Pilots Association (AOPA)
 * 2012, Certified ScrumMaster, Agile For All
 * 2005, Personnel Security Clearance (active), U.S. Department of Defense
+* 2001, Open Water Diver,  Professional Association of Diving Instructors (PADI)
 
 ## Other Technical Contributions
 * 2008, Acknowledged contributions. [*Real World Haskell* by Bryan O’Sullivan *et al.*](https://www.amazon.com/Real-World-Haskell-Bryan-OSullivan/dp/0596514980?&linkCode=ll2&tag=bloggbaconcom-20&linkId=e04dc3632848b66b671950f9a7d33b56&language=en_US&ref_=as_li_ss_tl)
 * 2005, Acknowledged contributions. [*Higher-Order Perl* by Mark Dominus](https://www.amazon.com/Higher-Order-Perl-Transforming-Programs/dp/1558607013?&linkCode=ll2&tag=bloggbaconcom-20&linkId=b4ed76774f88819423e97c83edab6277&language=en_US&ref_=as_li_ss_tl)
 * 2003, Acknowledged contributions. [*The Perl Cookbook* by Tom Christiansen & Nat Torkington](https://www.amazon.com/Perl-Cookbook-Second-Tom-Christiansen/dp/0596003137?&linkCode=ll2&tag=bloggbaconcom-20&linkId=c087096c47604fdb4948b606d2c79957&language=en_US&ref_=as_li_ss_tl)
 * 1998, Charter moderator, `comp.lang.perl.moderated` Usenet newsgroup
+
+## Skills
+* Areas
+  * Artificial Intelligence/Machine Learning (AI/ML), Large Language Models (LLMs), Theoretical Computer Science, Real-Time & Embedded Software Engineering, Test-Driven Development (TDD), Behavior-Driven Development (BDD), DevOps/DevSecOps, Data Science, Software Assurance, Static & Dynamic Analysis
+* Languages
+  * C, C++, Perl, Haskell, OCaml, C#, F#, Java, Bash, Tcl/Tk, FORTRAN, JavaScript, Python, …
+* Platforms
+  * Unix, Linux, VxWorks, Git, GitHub, GitLab, Comprehensive Perl Archive Network (CPAN), $\LaTeX$, Jupyter, XML/XSL
+* Research
+  * Small Business Innovation Research & Small Business Technology Transfer (SBIR/STTR), AI/ML, LLMs, Embedding Models, Cybersecurity, Complexity, Composability, Requirements Formalization, Software Lifecycle, Digital Engineering
+* Aviation
+  * Flight & Ground Instruction, Federal Aviation Regulations (FAR), Visual Flight Rules (VFR), Instrument Flight Rules (IFR), Mission Planning, Electronic Flight Bag (EFB)
+* Writing
+  * Proposal Management & Development, Technical Writing
+* Training
+  * Classroom & Virtual Instruction, Training Development

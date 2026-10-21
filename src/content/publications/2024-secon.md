@@ -3,7 +3,7 @@ title: "Use of Large Language Model Embeddings to Predict Research Topic Suitabi
 author: "Greg Bacon and Vineetha Menon"
 date: "2024-03-20"
 journal: "IEEE SoutheastCon 2024"
-external_url: "https://doi.org/10.1109/SoutheastCon56624.2025.10971523"
+external_url: "https://doi.org/10.1109/SoutheastCon52093.2024.10500152"
 description: "Identification of technical fits based on opportunity descriptions and a team’s summary of capabilities. Unsupervised multiclass spectral clustering selected 3 out of 5 topics (in a corpus of 89) chosen by a team of human experts."
 tags:
   - "AI-ML"
