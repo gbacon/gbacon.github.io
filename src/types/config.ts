@@ -4,6 +4,8 @@ export interface SiteConfig {
     desc: string;
     title: string;
     ogImage: string;
+    ogImageWidth?: number;
+    ogImageHeight?: number;
     postPerPage: number;
     favicon: string;
     lang: string;
