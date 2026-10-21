@@ -47,6 +47,8 @@ export interface SocialLink {
 export interface PageConfig {
     title: string;
     subtitle: string;
+    /** Meta description (aim for 120–160 characters). */
+    description?: string;
     isActive: boolean;
 }
 

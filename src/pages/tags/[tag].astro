@@ -7,6 +7,7 @@ import { slugifyTag } from "../../utils/tags";
 import { SITE } from "../../config";
 import AffiliateDisclosure from "../../components/AffiliateDisclosure.astro";
 import { isAmazonUrl } from "../../utils/affiliate-links";
+import { tagDescription } from "../../utils/descriptions";
 
 export async function getStaticPaths() {
     const tags = await getAllTags();
@@ -20,12 +21,16 @@ export async function getStaticPaths() {
 const { tagName } = Astro.props;
 
 const content = await getContentByTag(tagName);
+const description = tagDescription(
+    tagName,
+    content.map((item: any) => ({ title: item.data.title || item.id, collection: item.collection })),
+);
 const showDisclosure = content.some(
     (item: any) => item.data.external_url && isAmazonUrl(item.data.external_url),
 );
 ---
 
-<BaseLayout title={`#${tagName}`}>
+<BaseLayout title={`#${tagName}`} description={description}>
     <header class="page-header">
         <h1 class="page-title">#{tagName}</h1>
         <p class="page-subtitle">Content tagged with "{tagName}"</p>

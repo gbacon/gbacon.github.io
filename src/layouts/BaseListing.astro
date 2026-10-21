@@ -5,16 +5,25 @@ import BaseItemCard from "../components/ui/BaseItemCard.astro";
 import { getListingItem } from "../utils/adapters";
 import AffiliateDisclosure from "../components/AffiliateDisclosure.astro";
 import { isAmazonUrl } from "../utils/affiliate-links";
+import { PAGES, SITE } from "../config";
+import { appendIfFits } from "../utils/descriptions";
 
 interface Props {
     collection: "publications" | "talks" | "projects" | "posts" | "teaching" | "all";
     title: string;
     subtitle?: string;
+    description?: string;
     entries?: any[];
     page?: any;
 }
 
 const { collection, title, subtitle, entries: manualEntries, page } = Astro.props;
+
+const pageKey = collection === "posts" ? "blog" : collection;
+let description = Astro.props.description ?? PAGES[pageKey]?.description ?? SITE.desc;
+if (page && page.currentPage > 1) {
+    description = appendIfFits(description, ` Page ${page.currentPage} of ${page.lastPage}.`);
+}
 
 let entries = manualEntries || (collection !== "all" ? await getCollection(collection as any) : []);
 if (page) entries = page.data;
@@ -30,7 +39,7 @@ const showDisclosure = sortedEntries.some(
 );
 ---
 
-<BaseLayout title={title}>
+<BaseLayout title={title} description={description}>
     {(title || subtitle) && (
         <header class="page-header">
             {title && <h1 class="page-title">{title}</h1>}
