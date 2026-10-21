@@ -2,7 +2,7 @@
 title: "Mars Odyssey enters orbit"
 author: "Greg Bacon"
 date: "2026-07-29"
-description: "Bacon"
+description: "NASA broke its Mars losing streak. A 2001 Tech Talk column on how Mars Odyssey nailed orbit insertion within a kilometer, its aerobraking, and its goals."
 tags:
   - "Exponent"
   - "UAH"
@@ -11,9 +11,7 @@ tags:
 
 *This Tech Talk column originally appeared in The Exponent (University of Alabama in Huntsville), Vol. 33, No. 10 (November 1, 2001). Digitized issue: [UAH LOUIS archive](https://louis.uah.edu/exponent-2001/19). Reproduced here courtesy of that archive.*
 
-Bacon
-
-Last week, NASA broke a losing streak when Mars Odyssey successfully entered orbit around the planet Mars. According to a press release from NASA's Jet Propulsion Laboratory (JPL), Matt Landano—who is Odyssey project manager at JPL—said, “Odyssey flawlessly achieved last night’s one-time critical event of Mars orbit insertion. Hundreds and hundreds of things had to go right, and they did.” Inlight of the failures of the most recent missions to Mars—Mars Climate Orbiter and Mars Polar Lander—the success of the mission thus far has been a public relations win for the nation’s space agency.
+Last week, NASA broke a losing streak when Mars Odyssey successfully entered orbit around the planet Mars. According to a press release from NASA's Jet Propulsion Laboratory (JPL), Matt Landano—who is Odyssey project manager at JPL—said, “Odyssey flawlessly achieved last night’s one-time critical event of Mars orbit insertion. Hundreds and hundreds of things had to go right, and they did.” In light of the failures of the most recent missions to Mars—Mars Climate Orbiter and Mars Polar Lander—the success of the mission thus far has been a public relations win for the nation’s space agency.
 
 Mars Orbit Insertion, as JPL scientists refer to the maneuver, began at 9:26 p.m. Central Time on Tuesday, October 23 when Odyssey fired its main engine. Soon after, Odyssey was behind Mars from Earth’s perspective, so radio communication was impossible. At 9:55 p.m., the Deep Space Network received a signal from Odyssey, and the Odyssey team met the news with jubilant cheering.
 
