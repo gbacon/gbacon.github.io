@@ -6,7 +6,7 @@ author: "Greg Bacon"
 tags:
   - "Haskell"
 ---
-Another followup to [my earlier post about searching for word ladders](/2007/06/word-ladder.html), this time using
+Another followup to [my earlier post about searching for word ladders](/posts/word-ladder-lisp/), this time using
 [Haskell](https://www.haskell.org/)!
 
 This blog post is a Haskell program, written using the

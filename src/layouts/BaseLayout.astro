@@ -109,7 +109,7 @@ const jsonLd = {
         </style>
 
         <!-- Canonical URL -->
-        <link rel="canonical" href={canonicalURL} />
+        {robots.startsWith("noindex") ? null : <link rel="canonical" href={canonicalURL} />}
 
         <!-- Search Console Verification -->
         <meta name="google-site-verification" content="KTyZ1Uox2UzLCVQsLsiPUGFodtPFTDBmF1urt0OB61M" />

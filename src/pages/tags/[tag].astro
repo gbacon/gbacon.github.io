@@ -49,7 +49,7 @@ const showDisclosure = content.some(
                 tags: item.data.tags,
                 externalUrl: item.data.external_url,
             };
-            const href = `/${item.collection}/${item.id}`;
+            const href = `/${item.collection}/${item.id}/`;
             return <BaseItemCard {...listingItem} href={href} />;
         })}
     </section>

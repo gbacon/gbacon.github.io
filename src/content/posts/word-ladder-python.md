@@ -6,7 +6,7 @@ author: "Greg Bacon"
 tags:
   - "Python"
 ---
-[In an earlier post](/2007/06/word-ladder.html), I described an implementation in Common Lisp of a breadth-first search to find word ladders.
+[In an earlier post](/posts/word-ladder-lisp/), I described an implementation in Common Lisp of a breadth-first search to find word ladders.
 
 This time I practiced the [kata](http://codekata.pragprog.com/) using Python. Python's [list comprehensions](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions) help to make the solution concise, but apparently the lunch isn't free. For example, I could have written `one_hop` as
 
