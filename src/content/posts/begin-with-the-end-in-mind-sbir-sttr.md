@@ -141,9 +141,9 @@ Planned follow-ups, which I’ll link here as they’re published:
 * Trust but verify: measuring LLM topic recommendations
 * What changed in the reauthorization
 
-[habits]: https://www.amazon.com/dp/B086DD5KSJ?tag=bloggbaconcom-20
-[shipley]: https://www.amazon.com/dp/0971424462?tag=bloggbaconcom-20
-[capture]: https://www.amazon.com/dp/0971424489?tag=bloggbaconcom-20
+[habits]: https://www.amazon.com/dp/B086DD5KSJ
+[shipley]: https://www.amazon.com/dp/0971424462
+[capture]: https://www.amazon.com/dp/0971424489
 [crs]: https://www.congress.gov/crs-product/IN12705
 [about]: https://www.sbir.gov/about
 [dsip]: https://www.dodsbirsttr.mil/
