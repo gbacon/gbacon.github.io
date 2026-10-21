@@ -112,7 +112,7 @@ AI/ML, LLM Applications, Software Engineering, Real-Time and Embedded Systems, S
 1. G. Bacon and V. Menon, “[Use of large language model embeddings to predict research topic suitability based on organizational capabilities](/publications/2024-secon),” in *SoutheastCon 2024*, IEEE, Atlanta, GA, 2024, pp. 1376–1381. DOI: [10.1109/SoutheastCon52093.2024.10500152](https://doi.org/10.1109/SoutheastCon52093.2024.10500152).
 
 ### Dissertation
-* G. Bacon, “[Toward measurable explainable ethical AI: An LLM-driven data analytics study](https://www.proquest.com/docview/3226546812),” ProQuest publication number 32116123. ISBN 9798286491377, Ph.D. dissertation, The University of Alabama in Huntsville, 2025. URL: <https://www.proquest.com/docview/3226546812>.
+* G. Bacon, “[Toward measurable explainable ethical AI: An LLM-driven data analytics study](https://www.proquest.com/docview/3226546812),” ProQuest publication number 32116123. ISBN 9798286491377, Ph.D. dissertation, The University of Alabama in Huntsville, 2025.
 
 ### Other Conferences
 1. G. Bacon, “[Realtime verification & validation of the Space Shuttle Main Engine Controller software](/talks/2003-btec5),” Boeing Technical Excellence Conference 5, Seattle, WA, 2003.
