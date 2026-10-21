@@ -16,5 +16,7 @@ In the Catalyst SBIR Success Workshop, I applied a habit from the classic [Seven
 * Make It a Sales Document!
 * Changes in the Recent Reauthorization
 
+For a longer written version, see my post “[Begin with the End in Mind: How to Win SBIR/STTR Funding](/posts/begin-with-the-end-in-mind-sbir-sttr).”
+
 [habits]: https://www.amazon.com/dp/B086DD5KSJ
 [sbir]: https://www.sbir.gov/
