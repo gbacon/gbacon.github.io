@@ -13,7 +13,7 @@ At SBIR workshops, someone usually gets up and tells a great success story: a sm
 
 My answer, which I gave at the [Catalyst SBIR-STTR Summit in 2020](/talks/2020-end-in-mind) and again at the [Catalyst SBIR Success Workshop in 2026](/talks/2026-end-in-mind), comes from Stephen Covey’s [*The 7 Habits of Highly Effective People*][habits]: begin with the end in mind. Decide what Phase&nbsp;III looks like before you write the first word of your Phase&nbsp;I proposal, and then write a proposal that leads the evaluator straight there.
 
-I’ve learned this from both sides of the page. I was the principal investigator on a Missile Defense Agency SBIR, MDA11-031, through Phases&nbsp;I and&nbsp;II. I led an Army SBIR, A214-028 (the Risk Assessment Modeling Tool, or RAMoT), through Phases&nbsp;I and&nbsp;II and into a Phase&nbsp;III Other Transaction Agreement – about $19.2M in Phase&nbsp;III and more than $21M in aggregate. I also set up the industry–university team for a Navy STTR, N17B-T032, Phase&nbsp;I with the UAH Information Technology & Systems Center. Along the way I’ve read more solicitations than any reasonable person should, enough that I wrote a [dissertation](/posts/dissertation-acknowledgements) about getting machines to help.
+I’ve learned this from both sides of the page. I was the principal investigator on a Missile Defense Agency SBIR, MDA11-031, through Phases&nbsp;I and&nbsp;II. I led an Army SBIR, A214-028 (the Risk Assessment Modeling Tool, or RAMoT), through Phases&nbsp;I and&nbsp;II and into a Phase&nbsp;III Other Transaction Agreement – about \$19.2M in Phase&nbsp;III and more than \$21M in aggregate. I also set up the industry–university team for a Navy STTR, N17B-T032, Phase&nbsp;I with the UAH Information Technology & Systems Center. Along the way I’ve read more solicitations than any reasonable person should, enough that I wrote a [dissertation](/posts/dissertation-acknowledgements) about getting machines to help.
 
 This post is the hub for a series. It covers the big picture; later posts go deeper on each piece.
 
@@ -23,7 +23,7 @@ This post is the hub for a series. It covers the big picture; later posts go dee
 
 The Small Business Innovation Research (SBIR) program goes back to Roland Tibbetts at the National Science Foundation, which started a three-phase small-business research program in 1977. Congress made it government-wide with the Small Business Innovation Development Act of 1982. The Small Business Technology Transfer (STTR) program followed in 1992. Its main difference is that the small business has to team with a university or nonprofit research institution. That’s how my Navy STTR came together with UAH.
 
-According to the [Congressional Research Service][crs], 11 federal agencies run SBIR programs and six of them also run STTR. Agencies with extramural R&D budgets of at least $100 million set aside 3.2% for SBIR, and those at $1 billion or more set aside another 0.45% for STTR. [SBIR.gov][about], which the Small Business Administration runs, bills the two programs together as “America’s Seed Fund.” That’s fair. They’re the biggest pool of early-stage, high-risk research money open to small businesses.
+According to the [Congressional Research Service][crs], 11 federal agencies run SBIR programs and six of them also run STTR. Agencies with extramural R&D budgets of at least \$100 million set aside 3.2% for SBIR, and those at \$1 billion or more set aside another 0.45% for STTR. [SBIR.gov][about], which the Small Business Administration runs, bills the two programs together as “America’s Seed Fund.” That’s fair. They’re the biggest pool of early-stage, high-risk research money open to small businesses.
 
 The government isn’t doing this to be nice. The programs exist to stimulate technical innovation, to get more small businesses working on federal R&D needs, to widen participation (including by woman-owned, veteran-owned, service-disabled veteran-owned, and economically disadvantaged firms), and to turn federally funded research into products. For the government, that means innovative, high-risk research from small, nimble companies more affordably than it often can elsewhere, plus government use rights in what it funds.
 
@@ -37,8 +37,8 @@ It’s also not free money. You’re doing contract R&D for a customer with a sp
 
 Both programs run in three phases:
 
-* **Phase&nbsp;I: feasibility.** A short, small award to show your idea can work. As of October&nbsp;16, 2026, [SBIR.gov][about] says agencies may award up to $335,937 for Phase&nbsp;I without needing SBA approval.
-* **Phase&nbsp;II: prototype.** The main R&D effort, which in DoD usually runs about two years and is expected to produce a prototype. The same page puts the Phase&nbsp;II threshold at $2,239,578.
+* **Phase&nbsp;I: feasibility.** A short, small award to show your idea can work. As of October&nbsp;16, 2026, [SBIR.gov][about] says agencies may award up to \$335,937 for Phase&nbsp;I without needing SBA approval.
+* **Phase&nbsp;II: prototype.** The main R&D effort, which in DoD usually runs about two years and is expected to produce a prototype. The same page puts the Phase&nbsp;II threshold at \$2,239,578.
 * **Phase&nbsp;III: commercialization.** Taking the technology to market, whether that means sales to the government, sales to commercial customers, or both. Phase&nbsp;III money comes from outside the SBIR/STTR set-aside.
 
 Those dollar thresholds get adjusted periodically, and the rules just changed (more on that below), so check SBIR.gov and your solicitation before you plan around them.
@@ -120,7 +120,7 @@ Compliance is the price of entry. Build a compliance matrix that maps each “sh
 
 ## A word on the reauthorization
 
-That last tip is new. SBIR and STTR authority lapsed for about six months until the Small Business Innovation and Economic Security Act ([P.L.&nbsp;119-83][crs]) was signed on April&nbsp;13, 2026, reauthorizing both programs through September&nbsp;30, 2031. Among other changes, it creates Strategic Breakthrough Awards of up to $30M for companies with a prior Phase&nbsp;II and matching funds, adds Phase&nbsp;III training for contracting officers, strengthens due diligence against foreign risk, and, starting in FY2027, requires agencies to cap how many proposals one company can submit. When proposal counts are capped, picking your battles stops being advice and becomes a rule. I’ll cover the details in a later post. Until then, treat any number in this post as something to check against the current solicitation.
+That last tip is new. SBIR and STTR authority lapsed for about six months until the Small Business Innovation and Economic Security Act ([P.L.&nbsp;119-83][crs]) was signed on April&nbsp;13, 2026, reauthorizing both programs through September&nbsp;30, 2031. Among other changes, it creates Strategic Breakthrough Awards of up to \$30M for companies with a prior Phase&nbsp;II and matching funds, adds Phase&nbsp;III training for contracting officers, strengthens due diligence against foreign risk, and, starting in FY2027, requires agencies to cap how many proposals one company can submit. When proposal counts are capped, picking your battles stops being advice and becomes a rule. I’ll cover the details in a later post. Until then, treat any number in this post as something to check against the current solicitation.
 
 ## Further reading
 
