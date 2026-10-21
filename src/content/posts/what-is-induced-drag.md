@@ -22,4 +22,4 @@ At lower angles of attack, induced drag is lower. Induced drag increases for hig
 
 Again, the explanation above is a simplification and does not tell the entire story. It is intended to give you an idea what’s happening and show you that it’s not some mysterious voodoo.
 
-[phak]: https://www.amazon.com/Pilots-Handbook-Aeronautical-Knowledge-FAA-H-8083-25C/dp/1510779876?crid=9ABXUDS953Q4&dib=eyJ2IjoiMSJ9.D12e_RtIUuGH3VIlSDvmPJUN0w-FsT5Qso58STjh1iIZxd_w7lf-Hv20BY-iQXIyFXMSeaf0rxgQyhSo4pf7bOHN4FT7XtlVTPVuUVcfosq-HNNaCZhOy-kpvQOLLU7tKbtXI0eGSOdTS6ewmnsBwBtO5TVxSPhlGcBt29T85zBo9qnrdXlmAJ0Fz3NLksDu9eFyrsSg70HyOm2mX0no4MgrZ_QMv475tPocZ7a2B7M.NzPXqOo2XDq49u1qQm0rrIVvKeJhygx-Kkxd9rVyoYg&dib_tag=se&keywords=pilots+handbook+of+aeronautical+knowledge&qid=1781580892&sprefix=pilots+hand%2Caps%2C166&sr=8-1&linkCode=ll2&tag=bloggbaconcom-20&linkId=06392bf9960313724e21095ebd9686cf&language=en_US&ref_=as_li_ss_tl
+[phak]: https://www.amazon.com/dp/1510779876

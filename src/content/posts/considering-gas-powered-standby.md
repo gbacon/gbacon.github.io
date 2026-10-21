@@ -20,7 +20,7 @@ this BWRA™ Demerit. It will be ready before winter 2011, which will mean
 redundant sources of heat. You ought to see my related [*Getting Things Done*][GTD] project
 list!
 
-[GTD]: https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563?&linkCode=ll2&tag=bloggbaconcom-20&linkId=416d9e7ed7c1781140ae092c2ea8f718&language=en_US&ref_=as_li_ss_tl
+[GTD]: https://www.amazon.com/dp/0143126563
 
 The option is obvious now, but it took a conversation with my dad to
 learn about permanent standby generators that run on natural gas and

@@ -2,6 +2,7 @@
 import {
   PAID_LINK_TEXT,
   isAmazonUrl,
+  affiliateHref,
   externalLinkRel,
 } from '../utils/affiliate-links';
 
@@ -17,7 +18,7 @@ const paidText = isAmazonUrl(href) ? PAID_LINK_TEXT : '';
 ---
 
 <a
-  href={href}
+  href={affiliateHref(href)}
   rel={externalLinkRel(href)}
   class={className}
   target="_blank"

@@ -17,8 +17,8 @@ I recently revisited the idea and built a modern version in Rust. Rather than re
 
 > What might a small, transparent maze-learning experiment inspired by Theseus look like using modern Rust and reinforcement learning?
 
-* [*The Rust Programming Language*](https://link.amazon/B0f5kyeaW)
-* [*Deep Reinforcement Learning Hands-On: A practical and easy-to-follow guide to RL from Q-learning and DQNs to PPO and RLHF*](https://link.amazon/B01rWY82O)
+* [*The Rust Programming Language*](https://www.amazon.com/dp/1718504446)
+* [*Deep Reinforcement Learning Hands-On: A practical and easy-to-follow guide to RL from Q-learning and DQNs to PPO and RLHF*](https://www.amazon.com/dp/1835882706)
 
 ## Interactive Rust/WASM Version
 
@@ -116,6 +116,8 @@ The system consisted broadly of:
 4. **Goal** — a target location that the mouse learned to reach
 
 The importance of the machine was not that it used today’s definition of reinforcement learning. Rather, it demonstrated an early and compelling idea: a machine could use information acquired during previous behavior to perform better later.
+
+For more about Shannon himself, see Jimmy Soni and Rob Goodman’s biography [*A Mind at Play: How Claude Shannon Invented the Information Age*](https://www.amazon.com/dp/1476766681).
 
 ## How the Original System Learned
 

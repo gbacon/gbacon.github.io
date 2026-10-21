@@ -4,7 +4,7 @@ author: "Greg Bacon"
 date: "2000-06-01"
 journal: "The Perl Journal, Summer 2000, Vol. 5, No. 2, Issue 18"
 description: "Time killer in Perl/Tk."
-external_url: https://www.amazon.com/Games-Diversions-Perl-Culture-Journal/dp/0596003129?&linkCode=ll2&tag=bloggbaconcom-20&linkId=a11f62ee1d09b274f5478ed0cc240644&language=en_US&ref_=as_li_ss_tl
+external_url: https://www.amazon.com/dp/0596003129
 tags:
   - "Perl"
   - "Perl-Tk"
@@ -19,6 +19,8 @@ tags:
 > * Pyramid rules - https://www.semicolon.com/Solitaire/Rules/Pyramid.html
 > * Card images - https://waste.org/~oliviax/cards/
 > * GitHub - https://github.com/gbacon/tktk
+> * Further reading - [*Mastering Perl/Tk*][mptk] by Stephen Lidie and Nancy Walsh
+> * Fisher-Yates shuffle - the “Randomizing an Array” recipe in the [*Perl Cookbook*][cookbook]
 
 One evening, I saw my wife Samantha playing a solitaire game that I'd never seen before, and whose name I still don't know. I asked her to explain the rules. The game turns out to be a simpler variation of Pyramid, which is described at https://www.semicolon.com/Solitaire/Rules/Pyramid.html.
 
@@ -418,7 +420,9 @@ As you've seen, Tk provides a flexible framework for developing graphical user i
 
 *Greg Bacon is a Perl evangelist who must receive $1 million in contributions from the Faithful. Otherwise, he risks being struck down by Larry Wall. Greg would also like to remind you that there's no more important safety rule than to wear these—safety glasses.*
 
-[book]: https://www.amazon.com/Games-Diversions-Perl-Culture-Journal/dp/0596003129?&linkCode=ll2&tag=bloggbaconcom-20&linkId=a11f62ee1d09b274f5478ed0cc240644&language=en_US&ref_=as_li_ss_tl
+[book]: https://www.amazon.com/dp/0596003129
 [gh]: https://github.com/gbacon/tktk
+[mptk]: https://www.amazon.com/dp/1565927168
+[cookbook]: https://www.amazon.com/dp/0596003137
 [tk]: https://metacpan.org/dist/Tk
 [tkbind]: https://metacpan.org/dist/Tk/view/pod/bind.pod

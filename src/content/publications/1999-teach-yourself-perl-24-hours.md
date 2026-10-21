@@ -3,7 +3,7 @@ title: "SAMS Teach Yourself Perl in 24 Hours"
 author: "Clinton Pierce (Greg Bacon, Technical Editor)"
 date: "1999-11-19"
 description: "Tutorial on using Perl to create utilities and CGI webapps."
-external_url: https://www.amazon.com/Sams-Teach-Yourself-Perl-Hours/dp/0672327937?&linkCode=ll2&tag=bloggbaconcom-20&linkId=a94dafead04e92d386217c92b6bc0365&language=en_US&ref_=as_li_ss_tl
+external_url: https://www.amazon.com/dp/0672327937
 tags:
   - "Perl"
 ---
@@ -12,6 +12,7 @@ tags:
 
 ---
 
-I was the technical editor for the first edition, which involved checking the technical correctness of the descriptions and code samples.
+I was the technical editor for the [first edition][1999ed] (1999), which involved checking the technical correctness of the descriptions and code samples.
 
-[book]: https://www.amazon.com/Sams-Teach-Yourself-Perl-Hours/dp/0672327937?&linkCode=ll2&tag=bloggbaconcom-20&linkId=a94dafead04e92d386217c92b6bc0365&language=en_US&ref_=as_li_ss_tl
+[book]: https://www.amazon.com/dp/0672327937
+[1999ed]: https://www.amazon.com/dp/0672317737

@@ -4,7 +4,7 @@ author: "Greg Bacon"
 date: "1999-03-01"
 journal: "The Perl Journal, Spring 1999, Vol. 4, No. 1, Issue 13"
 description: "Most people build objects out of hashes. Here's why you shouldn’t."
-external_url: https://www.amazon.com/Computer-Science-Perl-Programming-Journal-ebook/dp/B00CUQ00WA?&linkCode=ll2&tag=bloggbaconcom-20&linkId=937c402b761e75dc1c93cee930941142&language=en_US&ref_=as_li_ss_tl
+external_url: https://www.amazon.com/dp/B00CUQ00WA
 tags:
   - "Perl"
   - "OOP"
@@ -235,7 +235,7 @@ This new approach to implementing objects illustrates that you don't have to do 
 *Greg Bacon is a system administrator and software developer for the [Information Technology and Systems Center][itsc] at the University of Alabama in Huntsville.*
 
 [bless]: https://perldoc.perl.org/functions/bless
-[book]: https://www.amazon.com/Computer-Science-Perl-Programming-Journal-ebook/dp/B00CUQ00WA?&linkCode=ll2&tag=bloggbaconcom-20&linkId=937c402b761e75dc1c93cee930941142&language=en_US&ref_=as_li_ss_tl
+[book]: https://www.amazon.com/dp/B00CUQ00WA
 [Convert::BER]: https://metacpan.org/dist/Convert-BER
 [eval]: https://perldoc.perl.org/functions/eval
 [fields]: https://perldoc.perl.org/fields

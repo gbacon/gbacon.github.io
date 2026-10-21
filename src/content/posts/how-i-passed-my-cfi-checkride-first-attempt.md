@@ -57,7 +57,9 @@ The FAA calls them [Knowledge Tests]. Pilots just say “writtens,” even thoug
 
 Download the [Flight Instructor for Airplane Category ACS (FAA-S-ACS-25)][acs] and know it cold. You’ll soon be teaching your own students how to use the Private and Commercial ACS guides. They’re legal cheat sheets for FAA tests.
 
-The CFI ACS lists two required (outside the exceptions in FAR 61.183) knowledge tests for the CFI initial: Fundamentals of Instructing and Flight Instructor – Airplane.
+The CFI ACS lists two required (outside the exceptions in FAR 61.183) knowledge tests for the CFI initial: Fundamentals of Instructing and Flight Instructor – Airplane. The FAA’s [*Aviation Instructor’s Handbook*][aih] is the source material for the FOI.
+
+[aih]: https://www.amazon.com/dp/1644250772
 
 Passing the writtens is a solved problem. Go directly to [Sheppard Air]. If you purchase their FIA study course first, Sheppard will give you a healthy discount on the FOI course down the road. I happened to do them in the other order. **Prepare for the writtens one at a time.**
 
@@ -90,7 +92,7 @@ Get a study buddy who is also working toward CFI. Each of you will pick up on di
 
 Practice teaching lessons to each other. Cal Newport in his book [How to Become a Straight-A Student][straighta] is a strong proponent of *active recall*, a technique that is much more effective than reading and rereading the same material. You may have heard the saying that the best way to learn is to prepare to teach someone else.
 
-[straighta]: https://www.amazon.com/dp/0767922719?&linkCode=ll2&tag=bloggbaconcom-20&linkId=ada23044f9fac21342af17423951242d&language=en_US&ref_=as_li_ss_tl
+[straighta]: https://www.amazon.com/dp/0767922719
 
 A form of the above advice is to grind out your own lesson plans while working on your commercial. I did not do this and instead purchased my own professionally created lesson plans to take to the checkride for occasional referral. The volume of the lesson plans is so large that the temptation to copy-and-paste, or these days outsource to an LLM, is strong. Neither one of these creates understanding in the way that active recall forces. Active recall is possible with your study buddy or by yourself. Even when you’re alone, practice teaching your lessons *out loud*. It will feel strange at first but is an essential part of the process.
 
@@ -100,7 +102,7 @@ Every DPE is unique with different personalities, preferences, idiosyncrasies, a
 
 Your recommending instructor likely has a DPE in mind. Find one or more checkride write ups or gouges on that DPE’s checkride. This will help minimize surprises and avoid the DPE’s hot buttons. Each DPE will tend to emphasize different subjects. One of the DPEs in my area is an attorney and expects to see familiarity with the FAR and application of the FOI. Another has an A&P certificate and wants CFI candidates to demonstrate significant systems knowledge. Your DPE may expect you to be able to calculate density altitude using an [E6B flight computer][e6b].
 
-[e6b]: https://www.amazon.com/E6B-Flight-Computer-Pilots-Compatible/dp/B0DYZKG5LT?&linkCode=ll2&tag=bloggbaconcom-20&linkId=4949a8d4391002a8f941bdb0663a993f&language=en_US&ref_=as_li_ss_tl
+[e6b]: https://www.amazon.com/dp/B0DYZKG5LT
 
 **Know your DPE.** You may be weak in some areas and strong in others that your DPE will ask about. You want to know what they are to fill in any gaps in your own knowledge.
 
@@ -184,7 +186,7 @@ With my knowledge solid, it was time to prepare for the oral.
 
 Remember that the oral is an open book, open note exam. **Refer to FAA sources.** The [ASA Flight Instructor Oral Exam Guide][asacfi] is a fine resource for preparation and mock orals, but I do not recommend taking it to your checkride.
 
-[asacfi]: https://www.amazon.com/Flight-Instructor-Oral-Exam-Guide/dp/1644252996?&linkCode=ll2&tag=bloggbaconcom-20&linkId=30e0b32632a388b6738de9dfbcf9283c&language=en_US&ref_=as_li_ss_tl
+[asacfi]: https://www.amazon.com/dp/1644252996
 
 **Never try to bluff the DPE.** The DPE’s questions are not idle curiosity. The DPE knows the answers. Different DPEs will have their own pet questions, such as where are high-performance and complex airplanes defined in the FAR. (It turns out they’re in separate sections.) Admitting when you don’t know and searching the FAR has an important application for flight instruction. Remember the P in REEPIR: the Law of Primacy. The first time we learn something, it tends to be really sticky, so never ever teach your students incorrect information. Admitting when you don’t know and when you make mistakes will build trust with your students.
 
@@ -209,8 +211,8 @@ Documents on my laptop were
   * AC 68-1, BasicMed
   * AC 91-73, Runway Incursions
 * FAA Handbooks
-  * Airplane Flying Handbook
-  * Pilots Handbook of Aeronautical Knowledge
+  * [Airplane Flying Handbook][afh]
+  * [Pilot’s Handbook of Aeronautical Knowledge][phak]
   * BasicMed FAQ
 * Knowledge Test Reports (AGI, FIA, FOI)
 * Runway Safety
@@ -222,6 +224,9 @@ Documents on my laptop were
 * Airworthiness summary for the airplane I brought to the checkride
 * Copy of my IACRA application
 * Weight & Balance spreadsheet for that day
+
+[afh]: https://www.amazon.com/dp/1644250683
+[phak]: https://www.amazon.com/dp/1510779876
 
 My kneeboard had paper notes with quick reminders for the laws and levels of learning, Maslow’s hierarchy, defense mechanisms, *etc.*
 
@@ -239,13 +244,13 @@ If you are mentally exhausted from the stress of the oral and the long day, you 
 
 The specific tools I actually used and still recommend follow.
 
-My aviation equipment and accessories went in my [FlightGear duffel bag](https://www.amazon.com/Flight-Gear-Sportys-Crosswind-Aviation/dp/B0FS7WTQRB?&linkCode=ll2&tag=bloggbaconcom-20&linkId=1ec9c83f0c1c3bfae7e66069a1ee42da&language=en_US&ref_=as_li_ss_tl).
+My aviation equipment and accessories went in my [FlightGear duffel bag](https://www.amazon.com/dp/B0FS7WTQRB).
 
-My [ASA Trifold Kneeboard](https://www.amazon.com/ASA-KB-3-VFR-Trifold-Kneeboard/dp/B003YCW00E?&linkCode=ll2&tag=bloggbaconcom-20&linkId=72b937d25098deb111465b3e9f86fb46&language=en_US&ref_=as_li_ss_tl) had some quick paper notes clipped into the binder that I used during the oral and flight portions.
+My [ASA Trifold Kneeboard](https://www.amazon.com/dp/B003YCW00E) had some quick paper notes clipped into the binder that I used during the oral and flight portions.
 
-My laptop and power cord went into my professional [leather messenger bag](https://www.amazon.com/gp/aw/d/B07PLJ7RF4?&linkCode=ll2&tag=bloggbaconcom-20&linkId=440fddf16b479bb48da189992c6244ad&language=en_US&ref_=as_li_ss_tl).
+My laptop and power cord went into my professional [leather messenger bag](https://www.amazon.com/dp/B07PLJ7RF4).
 
-My [Bose ANR headset](https://www.amazon.com/Bose-Lightweight-Comfortable-Adjustable-Cancelling/dp/B0BVBVPSX6?th=1&linkCode=ll2&tag=bloggbaconcom-20&linkId=4f6b305f292aa7cec618601724a411b6&language=en_US&ref_=as_li_ss_tl) kept communication with the DPE and ATC solid and reliable.
+My [Bose ANR headset](https://www.amazon.com/dp/B0BVBVPSX6) kept communication with the DPE and ATC solid and reliable.
 
 ## Conclusion & Next Steps
 

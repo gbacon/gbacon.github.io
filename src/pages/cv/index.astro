@@ -3,6 +3,7 @@ import { getEntry, render } from "astro:content";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import Timeline from "../../components/ui/Timeline.astro";
 import { PAGES } from "../../config";
+import AffiliateDisclosure from "../../components/AffiliateDisclosure.astro";
 
 if (PAGES.cv.isActive === false) {
     return Astro.redirect("/404");
@@ -15,7 +16,10 @@ if (!cvEntry) {
     );
 }
 
-const { Content } = await render(cvEntry);
+const { Content, remarkPluginFrontmatter } = await render(cvEntry);
+const showDisclosure =
+    (remarkPluginFrontmatter?.amazonLinks ?? 0) > 0 &&
+    !remarkPluginFrontmatter?.amazonDisclosurePresent;
 const { name, title, experience = [], education = [] } = cvEntry.data;
 ---
 
@@ -24,6 +28,8 @@ const { name, title, experience = [], education = [] } = cvEntry.data;
         <h1 class="page-title">{PAGES.cv.title}</h1>
         <p class="page-subtitle">{PAGES.cv.subtitle}</p>
     </header>
+
+    {showDisclosure && <AffiliateDisclosure class="container-narrow" />}
 
     <div class="container-narrow">
         {

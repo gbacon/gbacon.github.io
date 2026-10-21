@@ -7,6 +7,8 @@ import Icon from "../components/ui/Icon.astro";
 import { getDetailItem } from "../utils/adapters";
 import { SITE } from "../config";
 import ExternalLink from '../components/ExternalLink.astro';
+import AffiliateDisclosure from '../components/AffiliateDisclosure.astro';
+import { isAmazonUrl } from '../utils/affiliate-links';
 
 interface Props {
     collection: "publications" | "talks" | "projects" | "posts" | "teaching";
@@ -18,7 +20,7 @@ const entry = (await getEntry(collection, id)) as any;
 
 if (!entry) return Astro.redirect("/404");
 
-const { Content } = await render(entry);
+const { Content, remarkPluginFrontmatter } = await render(entry);
 const detail = getDetailItem(entry, collection);
 
 const meta = [];
@@ -29,6 +31,11 @@ if (detail.extraInput) {
     const label = collection === "publications" ? "Journal" : collection === "talks" ? "Event" : collection === "teaching" ? "Institution" : "Info";
     meta.push({ label, value: detail.extraInput, icon });
 }
+
+const showDisclosure =
+    ((remarkPluginFrontmatter?.amazonLinks ?? 0) > 0 ||
+        (detail.externalUrl ? isAmazonUrl(detail.externalUrl) : false)) &&
+    !remarkPluginFrontmatter?.amazonDisclosurePresent;
 
 const description = entry.data.description || detail.description || SITE.desc;
 const ogImage = entry.data.image || SITE.ogImage;
@@ -65,6 +72,8 @@ const ogImage = entry.data.image || SITE.ogImage;
                 ))}
             </div>
         )}
+
+        {showDisclosure && <AffiliateDisclosure />}
 
         <div class="prose">
             <Content />

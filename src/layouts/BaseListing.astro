@@ -3,6 +3,8 @@ import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import BaseItemCard from "../components/ui/BaseItemCard.astro";
 import { getListingItem } from "../utils/adapters";
+import AffiliateDisclosure from "../components/AffiliateDisclosure.astro";
+import { isAmazonUrl } from "../utils/affiliate-links";
 
 interface Props {
     collection: "publications" | "talks" | "projects" | "posts" | "teaching" | "all";
@@ -22,6 +24,10 @@ const sortedEntries = entries.sort((a: any, b: any) => {
     const dateB = b.data.date ? new Date(b.data.date).getTime() : 0;
     return dateB - dateA;
 });
+
+const showDisclosure = sortedEntries.some(
+    (e: any) => e.data.external_url && isAmazonUrl(e.data.external_url),
+);
 ---
 
 <BaseLayout title={title}>
@@ -31,6 +37,8 @@ const sortedEntries = entries.sort((a: any, b: any) => {
             {subtitle && <p class="page-subtitle">{subtitle}</p>}
         </header>
     )}
+
+    {showDisclosure && <AffiliateDisclosure />}
 
     <section class="item-list">
         {sortedEntries.map((entry: any) => {

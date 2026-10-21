@@ -1,0 +1,13 @@
+---
+import { AMAZON_DISCLOSURE } from '../config/affiliate';
+
+interface Props {
+    class?: string;
+}
+
+const { class: className = "" } = Astro.props;
+---
+
+<p class={`affiliate-disclosure text-sm italic opacity-80 mb-4 ${className}`}>
+    {AMAZON_DISCLOSURE}
+</p>
