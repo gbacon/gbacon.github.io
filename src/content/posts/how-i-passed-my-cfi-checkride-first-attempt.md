@@ -186,7 +186,7 @@ With my knowledge solid, it was time to prepare for the oral.
 
 Remember that the oral is an open book, open note exam. **Refer to FAA sources.** The [ASA Flight Instructor Oral Exam Guide][asacfi] is a fine resource for preparation and mock orals, but I do not recommend taking it to your checkride.
 
-[asacfi]: https://www.amazon.com/dp/1644252996
+[asacfi]: https://www.amazon.com/dp/1644255219
 
 **Never try to bluff the DPE.** The DPE’s questions are not idle curiosity. The DPE knows the answers. Different DPEs will have their own pet questions, such as where are high-performance and complex airplanes defined in the FAR. (It turns out they’re in separate sections.) Admitting when you don’t know and searching the FAR has an important application for flight instruction. Remember the P in REEPIR: the Law of Primacy. The first time we learn something, it tends to be really sticky, so never ever teach your students incorrect information. Admitting when you don’t know and when you make mistakes will build trust with your students.
 
