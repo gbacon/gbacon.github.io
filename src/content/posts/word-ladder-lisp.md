@@ -56,6 +56,5 @@ tags:
 
 ## Further reading
 
+* [*On Lisp: Advanced Techniques for Common Lisp*](https://www.amazon.com/dp/0130305529) by Paul Graham: macros, closures, and bottom-up programming in Common Lisp. It’s out of print, and Graham offers a [free copy](https://www.paulgraham.com/onlisp.html) on his site.
 * [*Practical Common Lisp*](https://www.amazon.com/dp/1590592395) by Peter Seibel: a hands-on introduction to Common Lisp, including hash tables, `loop`, and reading files.
-* [*Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp*](https://www.amazon.com/dp/1558601910) by Peter Norvig: idiomatic Common Lisp through classic AI programs, with a set of general search tools that includes breadth-first search.
-* [*The Algorithm Design Manual*](https://www.amazon.com/dp/3030542556), 3rd edition, by Steven S. Skiena: graph traversal, including breadth-first search and shortest paths in unweighted graphs.

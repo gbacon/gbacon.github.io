@@ -123,5 +123,5 @@ if __name__ == "__main__":
 
 ## Further reading
 
+* [*Learning Python*](https://www.amazon.com/dp/1098171306), 6th edition, by Mark Lutz: a thorough tour of the core language, including list comprehensions and generators.
 * [*Problem Solving with Algorithms and Data Structures Using Python*](https://www.amazon.com/dp/1590282574), 2nd edition, by Brad Miller and David Ranum: data structures and algorithms in Python, with a graphs chapter that solves the word ladder puzzle using breadth-first search.
-* [*The Algorithm Design Manual*](https://www.amazon.com/dp/3030542556), 3rd edition, by Steven S. Skiena: graph traversal, including breadth-first search and shortest paths in unweighted graphs.
