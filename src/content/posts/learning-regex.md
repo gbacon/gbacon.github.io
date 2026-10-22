@@ -146,6 +146,11 @@ Regular expressions are recursive, so now that you understand these basic rules,
 
 **†:** The statement above that `.` matches any character is a simplification for pedagogical purposes that is not strictly true. Dot matches any character except newline, `"\n"`, but in practice you rarely expect a pattern such as `.+` to cross a newline boundary. Perl regexes have a [`/s` switch](https://perldoc.perl.org/perlre.html#s) and Java [`Pattern.DOTALL`](https://docs.oracle.com/javase/1.5.0/docs/api/java/util/regex/Pattern.html#DOTALL), for example, to make `.` match any character at all. For languages that don’t have such a feature, you can use something like `[\s\S]` to match “any whitespace or any non-whitespace,” in other words anything.
 
+## Related
+
+ - [Moral: a regular expression is a poor substitute for a parser](/posts/regex-poor-substitute-for-parser/)
+ - [Scraping data from a program’s output](/posts/scraping-data-from-program-output/)
+ - [Waiting for Go-done](/posts/waiting-for-go-done/)
 
   [1]: https://regexr.com/
   [2]: https://metacpan.org/release/YAPE-Regex-Explain
