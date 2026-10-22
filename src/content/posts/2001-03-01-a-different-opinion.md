@@ -2,7 +2,7 @@
 title: "A different opinion"
 author: "Greg Bacon"
 date: "2026-07-21"
-description: "The only real cut so far in the threatened state budget proration is a slash in people's most valuable asset: the ability to think rationally."
+description: "Alabama’s proration fight threatened football and band to sell tax hikes. This column covers booster clubs, raided trust funds, and a state lottery."
 tags:
   - "Exponent"
   - "UAH"

@@ -1,6 +1,6 @@
 ---
 title: "Setting up a simple test with Cabal"
-description: "Testing the Haskell way."
+description: "Testing the Haskell way. Add a test program to a Cabal package with a build flag and a custom Setup.hs so cabal test runs it, plus the drawbacks."
 date: "2009-06-23"
 author: "Greg Bacon"
 tags:

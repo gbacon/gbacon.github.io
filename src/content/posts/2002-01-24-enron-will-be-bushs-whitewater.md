@@ -2,7 +2,7 @@
 title: "Enron will be Bush's Whitewater?"
 author: "Greg Bacon"
 date: "2026-08-05"
-description: "Over the past couple of weeks, several popular media outlets have been repeating a curious claim—namely that Enron will be Bush's Whitewater."
+description: "Will Enron be Bush’s Whitewater? This column weighs the campaign cash, White House access, and Cheney’s task force against the Clinton record."
 tags:
   - "Exponent"
   - "UAH"

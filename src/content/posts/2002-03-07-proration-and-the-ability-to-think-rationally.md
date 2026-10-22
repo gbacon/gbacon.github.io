@@ -2,7 +2,7 @@
 title: "Proration and the ability to think rationally"
 author: "Greg Bacon"
 date: "2026-09-02"
-description: "The only real cut so far in the state budget proration is a slash in people's most valuable asset: the ability to think rationally."
+description: "A 2001 column reprinted: Alabama’s proration fight threatened football and band to sell tax hikes. Booster clubs, trust funds, lotteries, and property tax."
 tags:
   - "Exponent"
   - "UAH"

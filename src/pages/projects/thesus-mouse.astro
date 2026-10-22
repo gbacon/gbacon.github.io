@@ -1,5 +1,5 @@
 ---
-const destination = "/projects/theseus-mouse";
+const destination = "/projects/theseus-mouse/";
 const canonical = new URL(destination, Astro.site).toString();
 ---
 
@@ -8,6 +8,7 @@ const canonical = new URL(destination, Astro.site).toString();
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="refresh" content={`0; url=${destination}`} />
+    <meta name="robots" content="noindex" />
     <link rel="canonical" href={canonical} />
     <title>Theseus Maze-Solving Machine</title>
   </head>

@@ -1,6 +1,6 @@
 ---
 title: "Immanuel"
-description: "Isaiah 9:6"
+description: "Isaiah 9:6: “For a child will be born to us, a son will be given to us.” Wonderful Counselor, Mighty God, Eternal Father, Prince of Peace, quoted from the ESV."
 author: "Greg Bacon"
 date: "2009-08-16"
 tags:

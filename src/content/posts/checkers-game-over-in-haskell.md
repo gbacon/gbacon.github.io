@@ -1,6 +1,6 @@
 ---
 title: "Checkers game-over in Haskell"
-description: ""
+description: "Can Haskell pattern matching spell out the rules of checkers? A literate Haskell program that rotates the board to test whether a side can still move."
 author: "Greg Bacon"
 date: "2011-01-01"
 tags:

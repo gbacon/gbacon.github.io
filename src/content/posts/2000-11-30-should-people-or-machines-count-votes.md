@@ -2,7 +2,7 @@
 title: "Should people or machines count votes?"
 author: "Greg Bacon"
 date: "2026-07-09"
-description: "“Should people or machines count votes?” is the central question in the recent Fight for Florida."
+description: "Florida’s recount asked whether people or machines should count votes. A Tech Talk column on early computers, Gödel’s incompleteness, and trusting machines."
 tags:
   - "Exponent"
   - "UAH"

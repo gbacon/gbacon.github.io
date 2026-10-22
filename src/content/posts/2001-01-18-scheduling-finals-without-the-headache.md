@@ -2,7 +2,7 @@
 title: "Scheduling finals without the headache"
 author: "Greg Bacon"
 date: "2026-07-16"
-description: "Want to become rich and famous while helping people out at the same time?"
+description: "Want to become rich and famous? Schedule UAH finals so no one has three in a day. A Tech Talk column on NP-complete problems such as graph coloring."
 tags:
   - "Exponent"
   - "UAH"

@@ -2,7 +2,7 @@
 title: "Socialism—let's not even go there"
 author: "Greg Bacon"
 date: "2026-05-19"
-description: "The level of Soviet socialism in our former commercial republic is frightening."
+description: "Soviet socialism in our former commercial republic is frightening. This column calls the HealthSouth case against Scrushy a witch hunt fed by regulation."
 tags:
   - "Exponent"
   - "UAH"

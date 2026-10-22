@@ -1,6 +1,6 @@
 ---
 title: "Dear Coach Saban"
-description: "Make a clean break from the Shula years"
+description: "Make a clean break from the Shula years. After the latest arrest, an open letter urging Coach Saban to tear up the scholarships of his predecessor’s recruits."
 date: "2008-06-24"
 author: "Greg Bacon"
 tags:

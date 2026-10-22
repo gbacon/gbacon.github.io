@@ -2,7 +2,7 @@
 title: "Turnitin.com and Postman's question"
 author: "Greg Bacon"
 date: "2026-08-03"
-description: "A recurring theme in this column has been Neil Postman’s contrarian question: “What will new technology undo?” Turnitin.com markets plagiarism detection—but what might it undo?"
+description: "What will new technology undo? A Tech Talk column puts Neil Postman’s question to Turnitin.com’s plagiarism detection and the errors its marketing omits."
 tags:
   - "Exponent"
   - "UAH"

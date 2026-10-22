@@ -1,6 +1,6 @@
 ---
 title: "Cleaning up your Haskell imports"
-description: "Discarding unused external modules."
+description: "Discarding unused external modules. How ghc’s -ddump-minimal-imports option writes a minimal import list for a Haskell module, and where the result falls short."
 author: "Greg Bacon"
 date: "2009-06-29"
 tags:

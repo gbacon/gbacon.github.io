@@ -21,14 +21,14 @@ const latestPosts = allPosts
   .slice(0, 5);
 ---
 
-<BaseLayout title={PAGES.home.title}>
+<BaseLayout title={PAGES.home.title} description={PAGES.home.description}>
 	<div class="container-narrow">
 		<div>
 			<h1>Latest Posts</h1>
 			<ul>
 				{latestPosts.map((post) => (
 					<li>
-						<a href={`/posts/${post.id}`}>
+						<a href={`/posts/${post.id}/`}>
 							{post.data.title}
 						</a>
 					</li>

@@ -1,6 +1,6 @@
 ---
 title: "Why does stat give 33188 for a file mode?"
-description: "How Unix represents file permissions."
+description: "How Unix represents file permissions. Why stat reports 33188 for a 644 file: st_mode bit fields, file-type bits, octal, and masking with 07777 in Perl."
 author: "Greg Bacon"
 date: "2026-05-15"
 tags:

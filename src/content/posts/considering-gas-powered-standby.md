@@ -1,6 +1,6 @@
 ---
 title: "Considering a gas-powered standby generator"
-description: "Beat the power outages."
+description: "Beat the power outages. After the 2011 Alabama tornado outbreak, I weigh a natural-gas standby generator for the house and list my open questions."
 author: "Greg Bacon"
 date: "2011-04-29"
 tags:

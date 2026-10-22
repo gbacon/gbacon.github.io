@@ -1,6 +1,6 @@
 ---
 title: "What is reaction formation?"
-description: "One of the FOI’s defense mechanism could be explained much more simply."
+description: "One of the FOI’s defense mechanisms explained more simply: a checkride-ready flight training example of reaction formation and how an instructor should respond."
 author: "Greg Bacon"
 date: "2026-06-01"
 tags:

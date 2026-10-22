@@ -11,6 +11,8 @@ const publications = defineCollection({
         journal: z.string().optional(),
         external_url: z.string().optional(),
         image: z.string().optional(),
+        /** Root-absolute path under public/ to use as the social preview instead of the generated card. */
+        ogImage: z.string().optional(),
         description: z.string().optional(),
         tags: z.array(z.string()).optional(),
     }),
@@ -26,6 +28,8 @@ const talks = defineCollection({
         description: z.string().optional(),
         tags: z.array(z.string()).optional(),
         image: z.string().optional(),
+        /** Root-absolute path under public/ to use as the social preview instead of the generated card. */
+        ogImage: z.string().optional(),
     }),
 });
 
@@ -39,6 +43,8 @@ const posts = defineCollection({
         tags: z.array(z.string()).optional(),
         external_url: z.string().optional(),
         image: z.string().optional(),
+        /** Root-absolute path under public/ to use as the social preview instead of the generated card. */
+        ogImage: z.string().optional(),
     }),
 });
 
@@ -50,6 +56,7 @@ const teaching = defineCollection({
         description: z.string().optional(),
         tags: z.array(z.string()).optional(),
         external_url: z.string().url().optional(),
+        ogImage: z.string().optional(),
     }),
 });
 
@@ -71,6 +78,8 @@ const projects = defineCollection({
         tags: z.array(z.string()).optional(),
         external_url: z.string().optional(),
         image: z.string().optional(),
+        /** Root-absolute path under public/ to use as the social preview instead of the generated card. */
+        ogImage: z.string().optional(),
     }),
 });
 

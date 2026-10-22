@@ -1,8 +1,9 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
+import { NOT_FOUND_DESCRIPTION } from "../config";
 ---
 
-<BaseLayout title="404: Page Not Found">
+<BaseLayout title="404: Page Not Found" description={NOT_FOUND_DESCRIPTION} robots="noindex, nofollow">
     <div
         class="flex flex-col items-center justify-center min-h-[50vh] text-center px-4"
     >

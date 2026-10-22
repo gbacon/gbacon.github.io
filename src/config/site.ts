@@ -3,9 +3,11 @@ import type { SiteConfig, ThemeConfig, SettingsConfig, UmamiAnalyticsConfig, Ana
 export const SITE: SiteConfig = {
     website: "https://blog.gbacon.com/",
     author: "Greg Bacon",
-    desc: "Personal site for Greg Bacon.",
+    desc: "Greg Bacon, Ph.D. computer scientist in Madison, Alabama: AI/ML and software engineering, OASYS CTO, UAH adjunct, and CFI. Posts on code, aviation, and more.",
     title: "Greg Bacon",
-    ogImage: "greg.webp",
+    ogImage: "/greg.jpg", // fallback for non-content pages; posts get /og/<collection>/<id>.png
+    ogImageWidth: 288,
+    ogImageHeight: 288,
     postPerPage: 5,
     favicon: "/favicon.svg",
     lang: "en",

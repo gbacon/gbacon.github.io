@@ -1,6 +1,6 @@
 ---
 title: "Extracting comma-separated integers with Perl"
-description: "Using split versus pattern matching."
+description: "Using split versus pattern matching. Pulling integers from a line in Perl: stray carriage returns, Randal Schwartz’s rule of thumb, and named captures."
 author: "Greg Bacon"
 date: "2011-03-01"
 tags:

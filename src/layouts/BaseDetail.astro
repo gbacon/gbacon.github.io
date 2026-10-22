@@ -9,6 +9,7 @@ import { SITE } from "../config";
 import ExternalLink from '../components/ExternalLink.astro';
 import AffiliateDisclosure from '../components/AffiliateDisclosure.astro';
 import { isAmazonUrl } from '../utils/affiliate-links';
+import { resolveOgImage } from '../utils/og-image';
 
 interface Props {
     collection: "publications" | "talks" | "projects" | "posts" | "teaching";
@@ -38,10 +39,18 @@ const showDisclosure =
     !remarkPluginFrontmatter?.amazonDisclosurePresent;
 
 const description = entry.data.description || detail.description || SITE.desc;
-const ogImage = entry.data.image || SITE.ogImage;
+const og = await resolveOgImage(collection, id, entry.data);
 ---
 
-<BaseLayout title={detail.title} description={description} ogImage={ogImage} ogType="article">
+<BaseLayout
+    title={detail.title}
+    description={description}
+    ogImage={og.src}
+    ogImageWidth={og.width}
+    ogImageHeight={og.height}
+    ogImageAlt={og.alt}
+    ogType="article"
+>
     <div class="flex justify-between items-center mb-4">
         <BackLink href={detail.backHref} label={collection} />
         {detail.externalUrl && (

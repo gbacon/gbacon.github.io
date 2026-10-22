@@ -1,6 +1,6 @@
 ---
 title: "Net::OpenID::Consumer failure: naive verify failed network"
-description: "Diagnosing a strange error message from Mojolicious."
+description: "Diagnosing a strange error from Net::OpenID::Consumer in a Mojolicious app: tracing naive_verify_failed_network to a missing IO::Socket::SSL dependency."
 author: "Greg Bacon"
 date: "2011-05-23"
 tags:

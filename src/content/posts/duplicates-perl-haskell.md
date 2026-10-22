@@ -1,6 +1,6 @@
 ---
 title: "Finding duplicates with Perl and Haskell"
-description: "Functional logfile processing."
+description: "Functional logfile processing. Check logs for a task running on multiple nodes at once, first with Perl’s diamond operator and hashes, then in Haskell."
 author: "Greg Bacon"
 date: "2026-05-25"
 tags:

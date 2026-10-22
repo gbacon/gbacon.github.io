@@ -1,12 +1,12 @@
 ---
 title: "Word Ladder in Haskell"
-description: "So pure"
+description: "So pure. A literate Haskell word ladder program: breadth-first search through a dictionary, using the State and list monads to track the search fringe."
 date: "2026-06-17"
 author: "Greg Bacon"
 tags:
   - "Haskell"
 ---
-Another followup to [my earlier post about searching for word ladders](/2007/06/word-ladder.html), this time using
+Another followup to [my earlier post about searching for word ladders](/posts/word-ladder-lisp/), this time using
 [Haskell](https://www.haskell.org/)!
 
 This blog post is a Haskell program, written using the

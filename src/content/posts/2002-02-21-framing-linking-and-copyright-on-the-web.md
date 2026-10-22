@@ -2,7 +2,7 @@
 title: "Framing, linking, and copyright on the Web"
 author: "Greg Bacon"
 date: "2026-08-25"
-description: "The Ninth U.S. Circuit Court of Appeals recently handed down a controversial copyright ruling involving framing and linking, two important World Wide Web concepts."
+description: "Kelly v. Arriba Soft: thumbnails are fair use, framing full-size images is not. A Tech Talk column on linking, inlining, and a fix on the server side."
 tags:
   - "Exponent"
   - "UAH"

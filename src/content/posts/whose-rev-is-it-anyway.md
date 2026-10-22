@@ -1,6 +1,6 @@
 ---
 title: "Whose rev is it anyway?"
-description: "Using git to prevent the finger-pointing game before it starts."
+description: "Using git to prevent the finger-pointing game before it starts. git grep across 100+ imported Subversion tags found which release changed a default."
 date: "2026-06-18"
 author: "Greg Bacon"
 tags:

@@ -23,6 +23,9 @@ interface Props {
     title: string;
     description?: string;
     ogImage?: string;
+    ogImageWidth?: number;
+    ogImageHeight?: number;
+    ogImageAlt?: string;
     ogType?: "website" | "article";
     robots?: "index, follow" | "noindex, nofollow";
 }
@@ -31,11 +34,19 @@ const {
     title, 
     description = SITE.desc, 
     ogImage = SITE.ogImage,
+    ogImageWidth = Astro.props.ogImage ? undefined : SITE.ogImageWidth,
+    ogImageHeight = Astro.props.ogImage ? undefined : SITE.ogImageHeight,
+    ogImageAlt = Astro.props.ogImage ? undefined : SITE.author,
     ogType = "website",
     robots = "index, follow"
 } = Astro.props;
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site || SITE.website);
+// Resolve against the site origin, not the page URL: a relative value on
+// /posts/foo would otherwise point at /posts/<image>.
+const ogImageURL = new URL(ogImage, Astro.site || SITE.website);
+// Wide images get the large card; the square fallback photo gets the small one.
+const twitterCard = ogImageWidth && ogImageHeight && ogImageWidth / ogImageHeight >= 1.5 ? "summary_large_image" : "summary";
 
 const jsonLd = {
     "@context": "https://schema.org",
@@ -98,7 +109,7 @@ const jsonLd = {
         </style>
 
         <!-- Canonical URL -->
-        <link rel="canonical" href={canonicalURL} />
+        {robots.startsWith("noindex") ? null : <link rel="canonical" href={canonicalURL} />}
 
         <!-- Search Console Verification -->
         <meta name="google-site-verification" content="KTyZ1Uox2UzLCVQsLsiPUGFodtPFTDBmF1urt0OB61M" />
@@ -115,14 +126,17 @@ const jsonLd = {
         <meta property="og:url" content={Astro.url} />
         <meta property="og:title" content={title} />
         <meta property="og:description" content={description} />
-        <meta property="og:image" content={new URL(ogImage, Astro.url)} />
+        <meta property="og:image" content={ogImageURL} />
+        {ogImageWidth && <meta property="og:image:width" content={String(ogImageWidth)} />}
+        {ogImageHeight && <meta property="og:image:height" content={String(ogImageHeight)} />}
+        {ogImageAlt && <meta property="og:image:alt" content={ogImageAlt} />}
 
         <!-- Twitter -->
-        <meta property="twitter:card" content="summary_large_image" />
+        <meta property="twitter:card" content={twitterCard} />
         <meta property="twitter:url" content={Astro.url} />
         <meta property="twitter:title" content={title} />
         <meta property="twitter:description" content={description} />
-        <meta property="twitter:image" content={new URL(ogImage, Astro.url)} />
+        <meta property="twitter:image" content={ogImageURL} />
 
         <!-- Structured Data (JSON-LD) -->
         <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />

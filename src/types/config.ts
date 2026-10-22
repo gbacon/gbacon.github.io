@@ -4,6 +4,8 @@ export interface SiteConfig {
     desc: string;
     title: string;
     ogImage: string;
+    ogImageWidth?: number;
+    ogImageHeight?: number;
     postPerPage: number;
     favicon: string;
     lang: string;
@@ -47,6 +49,8 @@ export interface SocialLink {
 export interface PageConfig {
     title: string;
     subtitle: string;
+    /** Meta description (aim for 120–160 characters). */
+    description?: string;
     isActive: boolean;
 }
 

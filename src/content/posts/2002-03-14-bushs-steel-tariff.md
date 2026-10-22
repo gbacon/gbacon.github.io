@@ -2,7 +2,7 @@
 title: "Bush's steel tariff"
 author: "Greg Bacon"
 date: "2026-09-07"
-description: "George W. Bush: neither compassionate nor conservative. Discuss amongst yourselves."
+description: "George W. Bush: neither compassionate nor conservative. Discuss. This column argues his thirty-percent steel tariff is a bailout that raises prices."
 tags:
   - "Exponent"
   - "UAH"

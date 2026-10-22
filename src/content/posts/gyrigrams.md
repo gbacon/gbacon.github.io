@@ -1,6 +1,6 @@
 ---
 title: "Gyrigrams"
-description: "Pairs of words equivalent up to rot13"
+description: "Pairs of words equivalent up to rot13. A literate Haskell program that finds gyrigrams in a dictionary, how rot13 works, and the pair that are synonyms."
 author: "Greg Bacon"
 date: "2009-07-09"
 tags:

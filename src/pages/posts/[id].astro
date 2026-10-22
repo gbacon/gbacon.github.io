@@ -28,7 +28,7 @@ export async function getStaticPaths() {
 
 const { post, prevPost, nextPost } = Astro.props;
 const readingTime = `${getReadingTime(post.body || "")} min read`;
-const postUrl = new URL(`/posts/${post.id}`, SITE.website).href;
+const postUrl = new URL(`/posts/${post.id}/`, SITE.website).href;
 ---
 
 <BaseDetail collection="posts" id={post.id} readingTime={readingTime}>
@@ -39,7 +39,7 @@ const postUrl = new URL(`/posts/${post.id}`, SITE.website).href;
         {
             prevPost && (
                 <a
-                    href={`/posts/${prevPost.id}`}
+                    href={`/posts/${prevPost.id}/`}
                     class="nav-prev flex flex-col group max-w-[45%] no-underline"
                 >
                     <span class="nav-label text-[0.8rem] uppercase tracking-wider opacity-75 font-bold mb-2">
@@ -55,7 +55,7 @@ const postUrl = new URL(`/posts/${post.id}`, SITE.website).href;
         {
             nextPost && (
                 <a
-                    href={`/posts/${nextPost.id}`}
+                    href={`/posts/${nextPost.id}/`}
                     class="nav-next flex flex-col items-end text-right group max-w-[45%] no-underline"
                 >
                     <span class="nav-label text-[0.8rem] uppercase tracking-wider opacity-75 font-bold mb-2">

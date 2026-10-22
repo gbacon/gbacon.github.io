@@ -3,7 +3,7 @@ title: "Perl Heresies: Building Objects Out of Arrays"
 author: "Greg Bacon"
 date: "1999-03-01"
 journal: "The Perl Journal, Spring 1999, Vol. 4, No. 1, Issue 13"
-description: "Most people build objects out of hashes. Here's why you shouldn’t."
+description: "Most people build objects out of hashes. Here’s why you shouldn’t. A Perl Journal article on array-based objects: speed, space, typos, and tradeoffs."
 external_url: https://www.amazon.com/dp/B00CUQ00WA
 tags:
   - "Perl"

@@ -2,7 +2,7 @@
 title: "Entangling alliances in the Middle East"
 author: "Greg Bacon"
 date: "2026-04-14"
-description: "Since the latest Israeli military action a couple of weeks ago, liberal and conservative activists have called for the United States to mediate the conflict, but they don't…"
+description: "Calls for America to mediate in Israel ignore what intervention already caused. Washington’s Farewell Address against entangling alliances, applied."
 tags:
   - "Exponent"
   - "UAH"

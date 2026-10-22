@@ -2,7 +2,7 @@
 title: "Surprising Haskell Type Inference Result"
 author: "Greg Bacon"
 date: "2017-06-01"
-description: "Haskell type inference appears to diagnose an infinite loop at compile time, but what’s really happening?"
+description: "Haskell type inference seems to catch an infinite loop at compile time. This HuntFunc talk walks through Hindley–Milner to show what’s really happening."
 tags:
   - "Haskell"
   - "Type Inference"

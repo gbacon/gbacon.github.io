@@ -1,6 +1,6 @@
 ---
 title: "RIP, Heather"
-description: "Mourning the passing of a classmate from elementary and high school"
+description: "Mourning the passing of a classmate from elementary and high school. Heather sat next to me in first grade in Mobile and was later my ASMS classmate."
 author: "Greg Bacon"
 date: "2009-06-16"
 tags:

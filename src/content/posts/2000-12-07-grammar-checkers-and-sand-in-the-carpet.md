@@ -2,7 +2,7 @@
 title: "Grammar checkers and sand in the carpet"
 author: "Greg Bacon"
 date: "2026-07-11"
-description: "Fun with mass nouns."
+description: "Fun with mass nouns. Sands in the carpet and an awful traffic show why English is hard for programs and why word-processor grammar checkers miss so much."
 tags:
   - "Exponent"
   - "UAH"

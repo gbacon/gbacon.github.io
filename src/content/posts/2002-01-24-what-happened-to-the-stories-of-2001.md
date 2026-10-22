@@ -2,7 +2,7 @@
 title: "What happened to the stories of 2001?"
 author: "Greg Bacon"
 date: "2026-08-08"
-description: "Ever since September 11th, we've focused almost exclusively on the WTC attacks, the undeclared war in Afghanistan, speculation over possible future targets of the War on Terror…"
+description: "After September 11th, the big stories of 2001 vanished, including the SSSCA. A Tech Talk column on what that bill would have required of PCs and gadgets."
 tags:
   - "Exponent"
   - "UAH"

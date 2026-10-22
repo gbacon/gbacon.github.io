@@ -1,6 +1,6 @@
 ---
 title: "Begin with the End in Mind: How to Win SBIR/STTR Funding"
-description: "Your Phase I proposal is really a pitch for Phase III. Write it that way."
+description: "Your Phase I proposal is really a pitch for Phase III. Write it that way. How to pick topics, talk to the TPOC, and make your proposal a sales document."
 author: "Greg Bacon"
 date: "2026-10-21"
 tags:

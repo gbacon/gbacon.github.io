@@ -1,6 +1,6 @@
 ---
 title: "Simple FitNesse example with CSlim"
-description: ""
+description: "Getting the CSlim server to talk to FitNesse took trial and error: the build fix, COMMAND_PATTERN settings, and fixture names for a passing Division test."
 author: "Greg Bacon"
 date: "2009-07-27"
 tags:

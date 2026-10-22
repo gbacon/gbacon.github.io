@@ -2,7 +2,7 @@
 title: "Software patents and prior art"
 author: "Greg Bacon"
 date: "2026-07-19"
-description: "Want to stick it to The Man and earn at least ten grand for the pleasure?"
+description: "Want to stick it to The Man and earn ten grand for the pleasure? A Tech Talk column on trivial software patents, prior art, and BountyQuest’s bounties."
 tags:
   - "Exponent"
   - "UAH"
