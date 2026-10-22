@@ -51,4 +51,14 @@ output2
 output4
 ```
 
+## Further reading
+
+* [*sed & awk*][sedawk], 2nd edition, by Dale Dougherty and Arnold Robbins: Unix regular expression syntax and stream editing with sed.
+* [*Classic Shell Scripting*][css] by Arnold Robbins and Nelson H. F. Beebe: combining grep, sed, and other Unix tools in portable shell pipelines.
+* [*The Linux Command Line*][tlcl], 3rd edition, by William Shotts: an introduction to the shell, including regular expressions and text processing with grep and sed.
+
+[sedawk]: https://www.amazon.com/dp/1565922255
+[css]: https://www.amazon.com/dp/0596005954
+[tlcl]: https://www.amazon.com/dp/1718504527
+
 Related: [Learning Regular Expressions](/posts/learning-regex/)

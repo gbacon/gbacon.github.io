@@ -212,4 +212,18 @@ namespace Application
 }
 ```
 
+## Further reading
+
+* [*Mastering Regular Expressions*][friedl], 3rd edition, by Jeffrey E. F. Friedl: how regex engines work, including .NET, and how to write patterns that match what you intend.
+* [*Language Implementation Patterns*][parr] by Terence Parr: practical patterns for lexers, recursive-descent parsers, and tree walkers, from the creator of ANTLR.
+* [*Introduction to the Theory of Computation*][sipser], 3rd edition, by Michael Sipser: regular languages, context-free grammars, and the pumping lemmas that show why a regular expression cannot match arbitrarily nested structure.
+* [*An Introduction to Formal Languages and Automata*][linz], 7th edition, by Peter Linz and Susan H. Rodger: finite automata, regular and context-free languages, and new chapters on parsing.
+* [*Test-Driven Development: By Example*][beck] by Kent Beck: the xUnit style of testing that NUnit follows.
+
+[friedl]: https://www.amazon.com/dp/0596528124
+[parr]: https://www.amazon.com/dp/193435645X
+[sipser]: https://www.amazon.com/dp/113318779X
+[linz]: https://www.amazon.com/dp/1284231607
+[beck]: https://www.amazon.com/dp/0321146530
+
 Related: [Learning Regular Expressions](/posts/learning-regex/)

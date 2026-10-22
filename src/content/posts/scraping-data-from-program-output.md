@@ -75,4 +75,14 @@ The /g regular-expression switch means we get all possible non-overlapping match
 
 The list returned from the match will look like `(2031616, "memory pages", 1953185, "lruable pages", ...)`, but that’s the opposite order from hash initialization, *i.e.*, key then value. The [reverse](http://perldoc.perl.org/functions/reverse.html) operator fixes this problem.
 
+## Further reading
+
+* [*Learning Perl*][llama], 8th edition, by Randal L. Schwartz, brian d foy, and Tom Phoenix: the standard introduction, covering filehandles, hashes, and regular expressions.
+* [*Programming Perl*][camel], 4th edition, by Tom Christiansen, brian d foy, Larry Wall, and Jon Orwant: the reference on `open`, `split`, backticks, and Perl’s regex engine.
+* [*Perl Cookbook*][cookbook], 2nd edition, by Tom Christiansen and Nathan Torkington: recipes for running other programs and capturing their output, and for pattern matching.
+
+[llama]: https://www.amazon.com/dp/1492094951
+[camel]: https://www.amazon.com/dp/0596004923
+[cookbook]: https://www.amazon.com/dp/0596003137
+
 Related: [Learning Regular Expressions](/posts/learning-regex/)
