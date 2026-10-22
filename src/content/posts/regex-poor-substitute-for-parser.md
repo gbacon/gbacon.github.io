@@ -8,15 +8,11 @@ tags:
   - "C#"
   - "Testing"
 ---
-A famous [jwz](http://www.jwz.org/) soundbite is [“Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.”](http://www.jwz.org/hacks/marginal.html)
-
-<!-- MIGRATION NOTE: http://www.jwz.org/hacks/marginal.html now answers 410 Gone; link kept as in the Blogger original pending Greg's review. -->
+A famous [jwz](http://www.jwz.org/) soundbite is [“Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.”](https://web.archive.org/web/20060905102808/http://www.jwz.org/hacks/marginal.html)
 
 Snarky, yes, but a good sanity check.
 
-Section 9 of the Perl FAQ addresses the issue of [validating email addresses](http://faq.perl.org/perlfaq9.html#How_do_I_check_a_val). [RFC 2822](http://www.faqs.org/rfcs/rfc2822.html) gives a specification for Internet email addresses, and the language is much broader than that matched by `/^\w+@\w+\.\w+$/`
-
-<!-- MIGRATION NOTE: the faq.perl.org anchor link is dead (perlfaq9 now lives at https://perldoc.perl.org/perlfaq9), and www.faqs.org did not respond during migration; both kept as in the Blogger original pending Greg's review. -->
+Section 9 of the Perl FAQ addresses the issue of [validating email addresses](https://perldoc.perl.org/perlfaq9#How-do-I-check-a-valid-mail-address). [RFC 2822](https://www.rfc-editor.org/rfc/rfc2822) gives a specification for Internet email addresses, and the language is much broader than that matched by `/^\w+@\w+\.\w+$/`
 
 The proper solution is to use a parser. To see why, consider the task of maintaining the following [elegant](http://careycilyok.blogspot.com/2007/02/thats-elegant.html) — but [unit-tested](http://www.nunit.org/)! — solution:
 
