@@ -168,3 +168,8 @@ the ladder that ends with the goal word:
 >         Nothing -> undefined
 >         Just a -> a
 ```
+
+## Further reading
+
+* [*Programming in Haskell*](https://www.amazon.com/dp/1316626229), 2nd edition, by Graham Hutton: a concise introduction to Haskell, from list comprehensions through monads, including the State monad.
+* [*The Algorithm Design Manual*](https://www.amazon.com/dp/3030542556), 3rd edition, by Steven S. Skiena: graph traversal, including breadth-first search and shortest paths in unweighted graphs.

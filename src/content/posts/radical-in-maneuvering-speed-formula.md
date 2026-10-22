@@ -53,5 +53,7 @@ The [FAA Weight and Balance Handbook][wb] in Figure 2-15 gives a few examples th
 
 The figures are within 2% for the top lot and off by a fraction of a percent for the bottom.
 
+For the aerodynamics behind maneuvering speed and the V-n diagram, see [*Aerodynamics for Naval Aviators*](https://www.amazon.com/dp/1619540177).
+
 [phak]: https://www.amazon.com/dp/1510779876
 [wb]: https://www.amazon.com/dp/B09MG914N6

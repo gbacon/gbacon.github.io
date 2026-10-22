@@ -55,7 +55,7 @@ If you’re preparing for your own CFI initial, this isn’t theory. It’s what
 
 The FAA calls them [Knowledge Tests]. Pilots just say “writtens,” even though they’ve been computer-based for decades.
 
-Download the [Flight Instructor for Airplane Category ACS (FAA-S-ACS-25)][acs] and know it cold. You’ll soon be teaching your own students how to use the Private and Commercial ACS guides. They’re legal cheat sheets for FAA tests.
+Download the [Flight Instructor for Airplane Category ACS (FAA-S-ACS-25)][acs] ([print edition](https://www.amazon.com/dp/1644254565)) and know it cold. You’ll soon be teaching your own students how to use the Private and Commercial ACS guides. They’re legal cheat sheets for FAA tests.
 
 The CFI ACS lists two required (outside the exceptions in FAR 61.183) knowledge tests for the CFI initial: Fundamentals of Instructing and Flight Instructor – Airplane. The FAA’s [*Aviation Instructor’s Handbook*][aih] is the source material for the FOI.
 
@@ -228,7 +228,7 @@ Documents on my laptop were
 [afh]: https://www.amazon.com/dp/1644250683
 [phak]: https://www.amazon.com/dp/1510779876
 
-My kneeboard had paper notes with quick reminders for the laws and levels of learning, Maslow’s hierarchy, defense mechanisms, *etc.*
+My [kneeboard](https://www.amazon.com/dp/B003YCW00E) had paper notes with quick reminders for the laws and levels of learning, Maslow’s hierarchy, defense mechanisms, *etc.*
 
 The summaries of my qualifications and the airplane’s airworthiness were to **make the DPE’s job easy**. Annoying or frustrating the DPE will hurt and never help your cause.
 
