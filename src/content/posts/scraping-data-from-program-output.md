@@ -21,7 +21,6 @@ Consider a (truncated) output from vmstat on AIX:
 
 Say you want to grab the values for memory pages and free pages. Below, I explain a couple of ways to do it.
 
-<!-- MIGRATION NOTE: the Blogger original (feed and live page) shows `while () {` below. The filehandle read inside the parentheses was evidently swallowed as an HTML tag on Blogger; left exactly as found pending Greg's review. -->
 
 ```perl
 #! /usr/bin/perl
@@ -36,7 +35,7 @@ open my $fh, "vmstat -v |"
 
 my %vmstat;
 
-while () {
+while (<$fh>) {
   chomp;
   my($n,$desc) = split " ", $_, 2;
 
