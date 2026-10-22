@@ -18,5 +18,5 @@ In the [Catalyst Center’s][catalyst] SBIR & STTR Summit 2020, I applied one of
 For a longer written version, see my post “[Begin with the End in Mind: How to Win SBIR/STTR Funding](/posts/begin-with-the-end-in-mind-sbir-sttr).”
 
 [catalyst]: https://catalystcenter.org/
-[habits]: https://www.amazon.com/dp/B086DD5KSJ
+[habits]: https://www.amazon.com/dp/1982137274
 [sbir]: https://www.sbir.gov/
