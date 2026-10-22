@@ -252,6 +252,16 @@ My laptop and power cord went into my professional [leather messenger bag](https
 
 My [Bose ANR headset](https://www.amazon.com/dp/B0BVBVPSX6) kept communication with the DPE and ATC solid and reliable.
 
+### Study Materials
+
+These are the study materials I used to prepare for the CFI initial.
+
+* [*Aviation Instructor’s Handbook*](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook) — [print edition](https://www.amazon.com/dp/1644250772)
+* [*Pilot’s Handbook of Aeronautical Knowledge*](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) — [print edition](https://www.amazon.com/dp/1510779876)
+* [*Airplane Flying Handbook*](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook) — [print edition](https://www.amazon.com/dp/1644250683)
+* [*Aeronautical Information Manual*](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/) — in print as part of [ASA’s *FAR/AIM 2027*](https://www.amazon.com/dp/164425560X)
+* [ASA *Flight Instructor Oral Exam Guide*](https://www.amazon.com/dp/1644255219)
+
 ## Conclusion & Next Steps
 
 I logged my first landings from the right seat on July 4, 2020. Ten months later on April 26, 2021, I passed the oral and on April 30 I passed the flight portion — all on the first attempt.
