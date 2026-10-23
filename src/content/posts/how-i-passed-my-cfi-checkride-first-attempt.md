@@ -94,7 +94,7 @@ Practice teaching lessons to each other. Cal Newport in his book [How to Become 
 
 [straighta]: https://www.amazon.com/dp/0767922719
 
-A form of the above advice is to grind out your own lesson plans while working on your commercial. I did not do this and instead purchased my own professionally created lesson plans to take to the checkride for occasional referral. The volume of the lesson plans is so large that the temptation to copy-and-paste, or these days outsource to an LLM, is strong. Neither one of these creates understanding in the way that active recall forces. Active recall is possible with your study buddy or by yourself. Even when you’re alone, practice teaching your lessons *out loud*. It will feel strange at first but is an essential part of the process.
+A form of the above advice is to grind out your own lesson plans while working on your commercial. I did not do this and instead purchased my own [professionally created lesson plans](https://thebackseatpilot.com/products/cfi-lesson-plans) to take to the checkride for occasional referral. The volume of the lesson plans is so large that the temptation to copy-and-paste, or these days outsource to an LLM, is strong. Neither one of these creates understanding in the way that active recall forces. Active recall is possible with your study buddy or by yourself. Even when you’re alone, practice teaching your lessons *out loud*. It will feel strange at first but is an essential part of the process.
 
 ### Get a “Gouge” on Your DPE
 
@@ -102,7 +102,7 @@ Every DPE is unique with different personalities, preferences, idiosyncrasies, a
 
 Your recommending instructor likely has a DPE in mind. Find one or more checkride write ups or gouges on that DPE’s checkride. This will help minimize surprises and avoid the DPE’s hot buttons. Each DPE will tend to emphasize different subjects. One of the DPEs in my area is an attorney and expects to see familiarity with the FAR and application of the FOI. Another has an A&P certificate and wants CFI candidates to demonstrate significant systems knowledge. Your DPE may expect you to be able to calculate density altitude using an [E6B flight computer][e6b].
 
-[e6b]: https://www.amazon.com/dp/B0DYZKG5LT
+[e6b]: https://www.amazon.com/dp/B01AQ7LNU2
 
 **Know your DPE.** You may be weak in some areas and strong in others that your DPE will ask about. You want to know what they are to fill in any gaps in your own knowledge.
 
@@ -244,7 +244,7 @@ If you are mentally exhausted from the stress of the oral and the long day, you 
 
 The specific tools I actually used and still recommend follow.
 
-My aviation equipment and accessories went in my [FlightGear duffel bag](https://www.amazon.com/dp/B0FS7WTQRB).
+My aviation equipment and accessories went in my [Flight Gear bag](https://www.sportys.com/flight-gear).
 
 My [ASA Trifold Kneeboard](https://www.amazon.com/dp/B003YCW00E) had some quick paper notes clipped into the binder that I used during the oral and flight portions.
 

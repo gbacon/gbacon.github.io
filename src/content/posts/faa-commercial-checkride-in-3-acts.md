@@ -257,7 +257,7 @@ as an incidental trip.
 To satisfy all of the FAR&nbsp;61.123 requirements, I logged 52 hours that included one
 night flight where I went over to HSV in an Arrow and did seven laps around the
 patch to round out my night towered landings. Cost breakdown is below. The other
-category includes DPE fee, Sheppard Air, replacement foggles, and a copy of the
+category includes DPE fee, Sheppard Air, replacement [foggles](https://www.amazon.com/dp/B018A2Z9TG), and a copy of the
 [ASA Commercial Oral Exam Guide][asacax].
 
 [asacax]: https://www.amazon.com/dp/1644255367
