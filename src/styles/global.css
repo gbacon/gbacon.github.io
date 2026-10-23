@@ -686,6 +686,18 @@ a:hover,
     padding: 0;
 }
 
+/* Plain-text fences (```text or untyped): Shiki emits no token colors, so the
+   text would inherit --foreground (near-black in light mode) on Shiki's dark
+   inline background. Render them white on black in both themes. */
+.prose pre.astro-code:is([data-language="text"], [data-language="plaintext"], [data-language="txt"]) {
+    background-color: #000 !important;
+    color: #fff !important;
+}
+
+.prose pre.astro-code:is([data-language="text"], [data-language="plaintext"], [data-language="txt"]) code {
+    color: #fff;
+}
+
 .prose img {
     max-width: 100%;
     height: auto;
