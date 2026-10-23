@@ -244,7 +244,7 @@ If you are mentally exhausted from the stress of the oral and the long day, you 
 
 The specific tools I actually used and still recommend follow.
 
-My aviation equipment and accessories went in my [Flight Gear bag](https://www.sportys.com/flight-gear).
+My aviation equipment and accessories went in my [Flight Gear Dual Headset Duffel](https://www.amazon.com/dp/B0FWD4L1GW).
 
 My [ASA Trifold Kneeboard](https://www.amazon.com/dp/B003YCW00E) had some quick paper notes clipped into the binder that I used during the oral and flight portions.
 
