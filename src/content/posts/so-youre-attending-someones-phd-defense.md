@@ -28,3 +28,8 @@ From there, it’s time for an academic party with smiles all around, enjoying r
 If you’re looking for personalized gift ideas, any office materials with Dr.&nbsp;So-and-so on them will be great: pen, paperweight, desk nameplate, and so on. You might purchase a picture frame with name and date — remember the Dr. honorific! — to hold a snapshot from the big day. If you can get hold of typeset pages or figures from the dissertation or other publications and frame them, that would be a special, meaningful gift.
 
 Local customs vary. Direct your specific questions to the candidate, the advisor, or the department office.
+
+## Further Reading
+
+* [*You’re Not Listening: What You’re Missing and Why It Matters*](https://www.amazon.com/dp/1250779871) by Kate Murphy: a broader look at attentive listening. A useful companion to the advice above about following the presentation and asking a question that helps the speaker explain their work.
+* [*A PhD Is Not Enough!: A Guide to Survival in Science*](https://www.amazon.com/dp/0465022227) by Peter J. Feibelman: advice on building a research career after the doctorate. Consider it as a gift for a new doctor pursuing a career in science, or read it to better understand some of the decisions ahead of them.

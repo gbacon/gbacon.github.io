@@ -46,3 +46,8 @@ Keep the structure of your talk straightforward.
 * Have a few ideas for future research directions or commercial applications to build on your work.
 
 Good luck! You’re going to do great and receive a wonderful greeting from your committee: “Congratulations, Dr. So-and-so!”
+
+## Further Reading
+
+* [*The Craft of Scientific Presentations: Critical Steps to Succeed and Critical Errors to Avoid*](https://www.amazon.com/dp/1441982787), 2nd edition, by Michael Alley: guidance on explaining research clearly, designing slides around evidence, and developing confidence as a presenter.
+* [*How to Survive Your Viva: Defending a Thesis in an Oral Examination*](https://www.amazon.com/dp/0335263887), 3rd edition, by Rowena Murray: preparation for the oral examination, with an emphasis on practicing how to discuss and defend your research. Written for the viva tradition, so adapt the advice to your department’s defense format.
