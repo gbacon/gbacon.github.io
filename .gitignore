@@ -2,7 +2,7 @@
 *.swp
 _site
 /bak
-/tmp
+/tmp/
 
 scripts/gen-favicon/favicons/
 
