@@ -112,7 +112,7 @@ Regular expressions are recursive, so now that you understand these basic rules,
  - [RegExr][1] (for JavaScript)
  - Perl: [YAPE: Regex Explain][2]
  - [Regex Coach][3] (engine backed by [CL-PPCRE](https://edicl.github.io/cl-ppcre/))
- - [RegexPal][4] (for JavaScript)
+ - [RegexPal][4] (Steven Levithan’s author-hosted legacy Regex Pal 0.1.4, for JavaScript)
  - [Regular Expressions Online Tester][5] 
  - [Regex Buddy][6]
  - [Regex 101][7] (for PCRE, JavaScript, Python, Golang, Java 8)
@@ -122,7 +122,7 @@ Regular expressions are recursive, so now that you understand these basic rules,
  - [Rubular][11] (for Ruby)
  - [Regular Expression Library][12] (Predefined Regexes for common scenarios)
  - [Txt2RE][13]
- - [Regex Tester][14] (for JavaScript)
+ - [Vayce regex tester][vayce] (for JavaScript; lists matches and capture groups; built by a reader who suggested it)
  - [Regex Storm][15] (for .NET)
  - [Debuggex][16] (visual regex tester and helper)
 
@@ -155,7 +155,7 @@ Regular expressions are recursive, so now that you understand these basic rules,
   [1]: https://regexr.com/
   [2]: https://metacpan.org/release/YAPE-Regex-Explain
   [3]: http://weitz.de/regex-coach/
-  [4]: https://www.regexpal.com/
+  [4]: https://stevenlevithan.com/regexpal/
   [5]: https://www.regular-expressions.info/
   [6]: https://www.regexbuddy.com/
   [7]: https://regex101.com/
@@ -165,7 +165,7 @@ Regular expressions are recursive, so now that you understand these basic rules,
   [11]: https://rubular.com/
   [12]: http://regexlib.com/Default.aspx
   [13]: http://www.txt2re.com/
-  [14]: https://www.regextester.com/
+  [vayce]: https://vayce.app/tools/regex-tester/
   [15]: http://regexstorm.net/
   [16]: https://www.debuggex.com/
   [17]: https://www.amazon.com/dp/0596528124

@@ -103,3 +103,9 @@ $ git gc --prune=0
 Note that these options will require a fairly recent git.
 
 After all these steps, the git repositories were went from gigabytes to 75 and 100 megabytes, *much* nicer!
+
+## Further reading
+
+* [*Pro Git*](https://www.amazon.com/dp/1484200772), 2nd edition, by Scott Chacon and Ben Straub: migrating a Subversion history with `git svn`, including how imported branches and tags are laid out.
+* [*Version Control with Git*](https://www.amazon.com/dp/1492091197), 3rd edition, by Prem Kumar Ponuthorai and Jon Loeliger: Git internals and repository maintenance, including the object store, the reflog, and garbage collection.
+* [*Version Control with Subversion*](https://www.amazon.com/dp/0596510330), 2nd edition, by Ben Collins-Sussman, Brian W. Fitzpatrick, and C. Michael Pilato: how Subversion models revisions, branches, and tags on the source side of an import.

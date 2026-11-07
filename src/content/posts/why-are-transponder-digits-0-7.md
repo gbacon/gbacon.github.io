@@ -43,6 +43,12 @@ Here we find several advantages:
 * All four-digit pilot inputs are representable in Mode A or Mode C.
 * The transponder doesn’t have to worry about what to do with bad inputs.
 
+## Further reading
+
+* [*Code: The Hidden Language of Computer Hardware and Software*](https://www.amazon.com/dp/0137909101), 2nd edition, by Charles Petzold: number systems, including octal, in the chapters on bases other than ten.
+* [*Principles of Avionics*](https://www.amazon.com/dp/1885544359), 9th edition, by Albert Helfrick: avionics systems, including transponders and Mode S.
+* [*FAR/AIM 2026*](https://www.amazon.com/dp/1644254980) by the Federal Aviation Administration and ASA: the 2026 edition of the Federal Aviation Regulations and Aeronautical Information Manual, including operational guidance for transponders.
+
 [octal]: https://en.wikipedia.org/wiki/Octal
 [HMI]: https://en.wikipedia.org/wiki/User_interface
 [XPNDR]: https://en.wikipedia.org/wiki/Transponder_(aeronautics)

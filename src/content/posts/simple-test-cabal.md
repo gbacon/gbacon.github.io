@@ -44,3 +44,9 @@ runTests' _ _ _ lbi = system testprog >> return ()
 When you run `cabal test`, it will kick off your test program whose source is in `test/Main.hs`.
 
 This approach has a few drawbacks. Users must explicitly enable the test builds. Building the test program entails *rebuilding* the other libraries in your package. Installing from a `-ftest` configuration will also install your test program.
+
+## Further reading
+
+* [*Real World Haskell*](https://www.amazon.com/dp/0596514980) by Bryan O’Sullivan, John Goerzen, and Don Stewart: chapters 5, 11, and 26 cover Cabal packages, HUnit, and QuickCheck.
+* [*Haskell in Depth*](https://www.amazon.com/dp/161729540X) by Vitaly Bragilevsky: Cabal packages and testing a Cabal project.
+* [*Practical Haskell*](https://www.amazon.com/dp/1484244796), 2nd edition, by Alejandro Serrano Mena: Cabal projects and testing with HUnit and QuickCheck.

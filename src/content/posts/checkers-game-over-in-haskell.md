@@ -355,3 +355,9 @@ exercise and a fun problem!
 >         invert = reverse . replace [('W','B'), ('w','b'), ('B','W'), ('b','w')]
 >         replace tbl = map (\c -> maybe c id $ lookup c tbl)
 ```
+
+## Further reading
+
+* [*Real World Haskell*](https://www.amazon.com/dp/0596514980) by Bryan O’Sullivan, John Goerzen, and Don Stewart: practical Haskell, including pattern matching, list processing, and HUnit.
+* [*Learn You a Haskell for Great Good!*](https://www.amazon.com/dp/1593272839) by Miran Lipovača: Haskell syntax, lists, and pattern matching.
+* [*Programming in Haskell*](https://www.amazon.com/dp/1316626229), 2nd edition, by Graham Hutton: a concise introduction to Haskell that develops game trees into an unbeatable tic-tac-toe player.

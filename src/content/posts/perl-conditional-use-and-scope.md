@@ -215,3 +215,9 @@ You might wonder why the code has to be inside a `BEGIN` block after the
 enabled—and you should!—it wants variables to be imported and declared
 before execution begins. Otherwise, compilation will fail because for
 all it knows, `$Foo` and `$Bar` in the `main` package were typos.
+
+## Further reading
+
+* [*Higher-Order Perl*](https://www.amazon.com/dp/1558607013) by Mark Jason Dominus: higher-order techniques in Perl, with a careful treatment of lexical scope and closures.
+* [*Programming Perl*](https://www.amazon.com/dp/0596004923), 4th edition, by Tom Christiansen, brian d foy, Larry Wall, and Jon Orwant: packages, modules, and the compile-time behavior of `use`.
+* [*Intermediate Perl*](https://www.amazon.com/dp/1449393098), 2nd edition, by Randal L. Schwartz, brian d foy, and Tom Phoenix: packages, modules, and lexical scope.
