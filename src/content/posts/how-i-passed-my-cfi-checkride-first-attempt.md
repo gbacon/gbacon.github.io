@@ -14,10 +14,10 @@ I did it! The DPE gave me a grin, shook my hand, and said, “Congratulations!�
 
 The FAA’s initial CFI checkride has a reputation for being one of the toughest. When I took mine in 2021, the national first-attempt pass rate was about 77 percent. It has since dropped to **73.7% in 2025**, according to the [U.S. Civil Airmen Statistics][faastats]. That means one applicant in four walks away disappointed on the first try.
 
-The FAA treats this checkride differently. Under [Order 8000.95], Designee Management Policy, DPEs may conduct up to three checkrides in a day — but **only one CFI initial** in any 24-hour period.
+The FAA treats this checkride differently. Under [Order 8000.95E], Designee Management Policy, a designee must not accept more than **one initial CFI application** in a single day, and must not conduct more than three complete practical tests in a single day. Retests do not count toward those three.
 
 [faastats]: https://www.faa.gov/data_research/aviation_data_statistics/civil_airmen_statistics
-[Order 8000.95]: https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1043481
+[Order 8000.95E]: https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1045623
 
 So why take it on?
 
@@ -50,6 +50,17 @@ Thanks to this hybrid approach, the DPE said “You really know your stuff!” a
 In this post, I’ll show you how I built my Anki deck, the exact preparation strategies that mattered most, what surprised me on checkride day, and the tools and resources I actually used (and still recommend).
 
 If you’re preparing for your own CFI initial, this isn’t theory. It’s what worked under real pressure.
+
+### My CFI Checkride Preparation Resources
+
+Use [Anki] every day. I did, for spaced repetition and active recall. Desktop and Android are free. On my iPhone and iPad I used [AnkiWeb]. I did not buy the iOS app. My [CFI study deck] is a pattern. **Make your own cards.** The [settings I used](#anki) are below.
+
+- Prepare and run mock orals from the [ASA *Flight Instructor Oral Exam Guide*](#oral-exam). Do not take it to the checkride.
+- Knock out the FOI and FIA with [Sheppard Air](#the-knowledge-or-written-tests-foi-and-fia), one written at a time.
+- Clip a few paper reminders into an [ASA trifold kneeboard](#materials-i-took-to-the-oral).
+- Carry searchable copies of the ACS and the FAA handbooks. The FAA copies are free. See [study materials](#study-materials).
+
+Teach every lesson out loud before the DPE sits beside you.
 
 ## The Knowledge or “Written” Tests: FOI and FIA
 
@@ -102,7 +113,7 @@ Every DPE is unique with different personalities, preferences, idiosyncrasies, a
 
 Your recommending instructor likely has a DPE in mind. Find one or more checkride write ups or gouges on that DPE’s checkride. This will help minimize surprises and avoid the DPE’s hot buttons. Each DPE will tend to emphasize different subjects. One of the DPEs in my area is an attorney and expects to see familiarity with the FAR and application of the FOI. Another has an A&P certificate and wants CFI candidates to demonstrate significant systems knowledge. Your DPE may expect you to be able to calculate density altitude using an [E6B flight computer][e6b].
 
-[e6b]: https://www.amazon.com/dp/B01AQ7LNU2
+[e6b]: https://www.amazon.com/dp/B004X762EY
 
 **Know your DPE.** You may be weak in some areas and strong in others that your DPE will ask about. You want to know what they are to fill in any gaps in your own knowledge.
 
@@ -141,7 +152,7 @@ Missing study sessions means they stack up on you. It will happen. Keep skips to
 
 These aggressive settings let me tackle more information and front-loaded my learning. The defaults would never allow you to get through everything.
 
-Anki supports Windows, Mac, Linux, iOS, and Android. The Android and desktop versions are free. The [iOS Anki app costs money][faq]. I used the desktop version most frequently at home on my laptop. [AnkiWeb] is a free companion webapp that allows you to upload your cards and study over the web. On the go on my iPhone and iPad, I studied for free with Safari and AnkiWeb.
+Anki supports Windows, Mac, Linux, iOS, and Android. The Android and desktop versions are free. The [iOS Anki app costs money][faq]. I did not buy it. I used the desktop version most frequently at home on my laptop. [AnkiWeb] is a free companion webapp that allows you to upload your cards and study over the web. On the go on my iPhone and iPad, I studied with Safari and AnkiWeb.
 
 I mostly used [cloze deletion cards]. An example cloze template is
 
@@ -228,7 +239,7 @@ Documents on my laptop were
 [afh]: https://www.amazon.com/dp/1644250683
 [phak]: https://www.amazon.com/dp/1510779876
 
-My [kneeboard](https://www.amazon.com/dp/B003YCW00E) had paper notes with quick reminders for the laws and levels of learning, Maslow’s hierarchy, defense mechanisms, *etc.*
+My [ASA Trifold Kneeboard](https://www.amazon.com/dp/B003YCW00E) had paper notes with quick reminders for the laws and levels of learning, Maslow’s hierarchy, defense mechanisms, *etc.*, clipped into the binder for the oral and the flight.
 
 The summaries of my qualifications and the airplane’s airworthiness were to **make the DPE’s job easy**. Annoying or frustrating the DPE will hurt and never help your cause.
 
@@ -242,19 +253,19 @@ If you are mentally exhausted from the stress of the oral and the long day, you 
 
 ## Resources I Actually Used and Recommend
 
-The specific tools I actually used and still recommend follow.
+The kneeboard and the headset are what I used. Buy a current bag for the rest.
 
-My aviation equipment and accessories went in my [Flight Gear Dual Headset Duffel](https://www.amazon.com/dp/B0FWD4L1GW).
+Put headsets and small gear in a flight bag such as the [Flight Gear Dual Headset Duffel](https://www.amazon.com/dp/B0FWD4L1GW).
 
-My [ASA Trifold Kneeboard](https://www.amazon.com/dp/B003YCW00E) had some quick paper notes clipped into the binder that I used during the oral and flight portions.
+My [ASA Trifold Kneeboard](https://www.amazon.com/dp/B003YCW00E). Use it the way I describe under [Materials I Took to the Oral](#materials-i-took-to-the-oral).
 
-My laptop and power cord went into my professional [leather messenger bag](https://www.amazon.com/dp/B07PLJ7RF4).
+Carry the laptop and power cord in their own bag, such as this [leather messenger bag](https://www.amazon.com/dp/B07PLJ7RF4).
 
 My [Bose ANR headset](https://www.amazon.com/dp/B0BVBVPSX6) kept communication with the DPE and ATC solid and reliable.
 
 ### Study Materials
 
-These are the study materials I used to prepare for the CFI initial.
+I used the free FAA PDFs of the handbooks and the AIM. Buy the print edition if you want paper. Use the oral exam guide for mock orals.
 
 * [*Aviation Instructor’s Handbook*](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook) — [print edition](https://www.amazon.com/dp/1644250772)
 * [*Pilot’s Handbook of Aeronautical Knowledge*](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak) — [print edition](https://www.amazon.com/dp/1510779876)
